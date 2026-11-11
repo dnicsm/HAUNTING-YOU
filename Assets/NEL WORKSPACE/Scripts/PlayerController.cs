@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(Collider2D))]
+[RequireComponent(typeof(PlayerHealth))]
 public class PlayerController : MonoBehaviour
 {
     public enum State { Normal, Jumping, Dodging, Hurt, Burning, Dead }
@@ -21,41 +21,32 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float dodgeDuration = 0.3f;
     [SerializeField] private float dodgeStaminaCost = 25f;
 
-    [Header("Hearts & Health")]
-    [SerializeField] private int maxHearts = 3;
-    [field: SerializeField] public int CurrentHearts { get; private set; }
-
-    [Header("Shield Cores")]
-    [SerializeField] private int maxShieldCores = 3;
-    [field: SerializeField] public int CurrentShieldCores { get; private set; }
-
     [Header("Stamina")]
     [SerializeField] private float maxStamina = 100f;
     [SerializeField] private float staminaRegenRate = 15f;
     [SerializeField] private float staminaRegenDelay = 1.2f;
-    [field: SerializeField] public float CurrentStamina { get; private set; }
-    private float staminaRegenTimer;
 
-    [Header("Sanity")]
-    [SerializeField] private float maxSanity = 100f;
-    [SerializeField] private float sanityDrainRate = 1f;
-    [field: SerializeField] public float CurrentSanity { get; private set; }
+    [field: SerializeField] public float CurrentStamina { get; private set; }
 
     [Header("References")]
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     [SerializeField] private Transform playerVisual;
+    [SerializeField] private PlayerHealth playerHealth;
 
     [Header("State (Read-Only Debug)")]
     [field: SerializeField] public State CurrentState { get; private set; } = State.Normal;
+
     public bool IsRunning { get; private set; }
     public bool IsBusy => CurrentState != State.Normal;
+    public PlayerHealth Health => playerHealth;
 
     private Vector2 moveInput;
     private Vector2 facingDirection = Vector2.down;
     private Vector2 dodgeDirection;
 
     private float activeMoveSpeed;
+    private float staminaRegenTimer;
     private float lastDodgeTime = -10f;
     private float dodgeTimer;
     private float jumpTimer;
@@ -75,44 +66,81 @@ public class PlayerController : MonoBehaviour
     private static readonly int IsBurningHash = Animator.StringToHash("IsBurning");
     private static readonly int IsDeadHash = Animator.StringToHash("IsDead");
 
+    private void OnValidate()
+    {
+        walkSpeed = Mathf.Max(0f, walkSpeed);
+        runSpeed = Mathf.Max(0f, runSpeed);
+        runStaminaCost = Mathf.Max(0f, runStaminaCost);
+        jumpDuration = Mathf.Max(0.01f, jumpDuration);
+        jumpStaminaCost = Mathf.Max(0f, jumpStaminaCost);
+        dodgeSpeed = Mathf.Max(0f, dodgeSpeed);
+        dodgeCooldown = Mathf.Max(0f, dodgeCooldown);
+        dodgeDuration = Mathf.Max(0.01f, dodgeDuration);
+        dodgeStaminaCost = Mathf.Max(0f, dodgeStaminaCost);
+        maxStamina = Mathf.Max(0f, maxStamina);
+        staminaRegenRate = Mathf.Max(0f, staminaRegenRate);
+        staminaRegenDelay = Mathf.Max(0f, staminaRegenDelay);
+    }
+
     private void Awake()
     {
-        CurrentHearts = maxHearts;
-        CurrentStamina = maxStamina;
-        CurrentSanity = maxSanity;
-        CurrentShieldCores = 0;
+        if (rb == null)
+            rb = GetComponent<Rigidbody2D>();
 
-        if (rb == null) rb = GetComponent<Rigidbody2D>();
+        if (playerHealth == null)
+            playerHealth = GetComponent<PlayerHealth>();
+
         if (playerVisual != null)
         {
             originalVisualPosition = playerVisual.localPosition;
-            if (animator == null) animator = playerVisual.GetComponent<Animator>();
+            if (animator == null)
+                animator = playerVisual.GetComponent<Animator>();
         }
 
-        ConfigureRigidbody();
-    }
+        CurrentStamina = maxStamina;
+        activeMoveSpeed = walkSpeed;
 
-    private void ConfigureRigidbody()
-    {
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
         rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
     }
 
+    private void OnEnable()
+    {
+        if (playerHealth != null)
+        {
+            playerHealth.OnHurt += HandleHurt;
+            playerHealth.OnBurned += HandleBurned;
+            playerHealth.OnDied += HandleDied;
+            playerHealth.OnRevived += HandleRevived;
+        }
+    }
+
+    private void OnDisable()
+    {
+        if (playerHealth != null)
+        {
+            playerHealth.OnHurt -= HandleHurt;
+            playerHealth.OnBurned -= HandleBurned;
+            playerHealth.OnDied -= HandleDied;
+            playerHealth.OnRevived -= HandleRevived;
+        }
+    }
+
     private void Update()
     {
         if (CurrentState == State.Dead)
         {
-            HandleDeadInput();
+            if (Input.GetKeyDown(KeyCode.R) && playerHealth != null)
+                playerHealth.TryRevive();
             return;
         }
 
         HandleInput();
-        UpdateJumpVisual();
+        UpdateJumpState();
         UpdateDodgeState();
         UpdateStamina();
-        UpdateSanity();
         UpdateAnimations();
     }
 
@@ -133,13 +161,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // =====================================
-    // INPUT & MOVEMENT
-    // =====================================
-
     private void HandleInput()
     {
-        if (CurrentState == State.Hurt || CurrentState == State.Burning || CurrentState == State.Dodging)
+        if (CurrentState == State.Hurt ||
+            CurrentState == State.Burning ||
+            CurrentState == State.Dodging)
         {
             moveInput = Vector2.zero;
             IsRunning = false;
@@ -149,9 +175,9 @@ public class PlayerController : MonoBehaviour
         float rawX = Input.GetAxisRaw("Horizontal");
         float rawY = Input.GetAxisRaw("Vertical");
 
-        if (rawX != 0)
+        if (rawX != 0f)
             moveInput = new Vector2(Mathf.Sign(rawX), 0f);
-        else if (rawY != 0)
+        else if (rawY != 0f)
             moveInput = new Vector2(0f, Mathf.Sign(rawY));
         else
             moveInput = Vector2.zero;
@@ -159,14 +185,17 @@ public class PlayerController : MonoBehaviour
         if (moveInput != Vector2.zero)
             facingDirection = moveInput;
 
-        bool holdingRunKey = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
-        bool isMoving = moveInput != Vector2.zero;
+        bool holdingRunKey =
+            Input.GetKey(KeyCode.LeftShift) ||
+            Input.GetKey(KeyCode.RightShift);
 
-        if (holdingRunKey && isMoving && CurrentStamina > 0f)
+        if (holdingRunKey && moveInput != Vector2.zero && CurrentStamina > 0f)
         {
             IsRunning = true;
             activeMoveSpeed = runSpeed;
-            CurrentStamina = Mathf.Max(CurrentStamina - runStaminaCost * Time.deltaTime, 0f);
+            CurrentStamina = Mathf.Max(
+                0f,
+                CurrentStamina - runStaminaCost * Time.deltaTime);
             staminaRegenTimer = staminaRegenDelay;
         }
         else
@@ -184,146 +213,140 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void HandleDeadInput()
+    // HEALTH EVENT HANDLERS
+    private void HandleHurt()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            TryRevive();
-        }
+        EnterDamageState(State.Hurt, IsHurtHash);
     }
 
-    // =====================================
-    // STAMINA SYSTEM
-    // =====================================
+    private void HandleBurned()
+    {
+        EnterDamageState(State.Burning, IsBurningHash);
+    }
 
+    private void EnterDamageState(State damageState, int animationHash)
+    {
+        CurrentState = damageState;
+        moveInput = Vector2.zero;
+        IsRunning = false;
+        jumpTimer = 0f;
+        dodgeTimer = 0f;
+        rb.linearVelocity = Vector2.zero;
+        ClearActionAnimationFlags();
+        SetAnimBool(animationHash, true);
+    }
+
+    private void HandleDied()
+    {
+        CurrentState = State.Dead;
+        moveInput = Vector2.zero;
+        IsRunning = false;
+        activeMoveSpeed = walkSpeed;
+        rb.linearVelocity = Vector2.zero;
+
+        if (playerVisual != null)
+            playerVisual.localPosition = originalVisualPosition;
+
+        ClearActionAnimationFlags();
+        SetAnimBool(IsDeadHash, true);
+    }
+
+    private void HandleRevived()
+    {
+        CurrentStamina = maxStamina;
+        staminaRegenTimer = 0f;
+        moveInput = Vector2.zero;
+        IsRunning = false;
+        activeMoveSpeed = walkSpeed;
+        CurrentState = State.Normal;
+        rb.linearVelocity = Vector2.zero;
+
+        ClearActionAnimationFlags();
+        SetAnimBool(IsDeadHash, false);
+    }
+
+    // STAMINA
     private void UpdateStamina()
     {
-        if (staminaRegenTimer > 0)
+        if (staminaRegenTimer > 0f)
         {
             staminaRegenTimer -= Time.deltaTime;
             return;
         }
 
-        if (CurrentStamina < maxStamina && CurrentState != State.Dodging && !IsRunning)
+        if (CurrentStamina < maxStamina &&
+            CurrentState != State.Dodging &&
+            !IsRunning)
         {
-            CurrentStamina = Mathf.Min(CurrentStamina + staminaRegenRate * Time.deltaTime, maxStamina);
+            CurrentStamina = Mathf.Min(
+                CurrentStamina + staminaRegenRate * Time.deltaTime,
+                maxStamina);
         }
     }
 
     public bool UseStamina(float amount)
     {
-        if (CurrentStamina >= amount)
-        {
-            CurrentStamina -= amount;
-            staminaRegenTimer = staminaRegenDelay;
-            return true;
-        }
-        return false;
+        if (amount < 0f || CurrentStamina < amount)
+            return false;
+
+        CurrentStamina -= amount;
+        staminaRegenTimer = staminaRegenDelay;
+        return true;
     }
 
     public void RestoreStamina(float amount)
     {
+        if (amount <= 0f)
+            return;
+
         CurrentStamina = Mathf.Min(CurrentStamina + amount, maxStamina);
     }
 
-    // =====================================
-    // SANITY SYSTEM
-    // =====================================
-
-    private void UpdateSanity()
-    {
-        if (sanityDrainRate <= 0f || CurrentState == State.Dead) return;
-
-        CurrentSanity = Mathf.Max(CurrentSanity - sanityDrainRate * Time.deltaTime, 0f);
-
-        if (CurrentSanity <= 0f)
-        {
-            OnSanityDepleted();
-        }
-    }
-
-    public void DrainSanity(float amount)
-    {
-        CurrentSanity = Mathf.Max(CurrentSanity - amount, 0f);
-        Debug.Log($"<color=purple>[SANITY LOST]</color> Current Sanity: {CurrentSanity:F1}/{maxSanity}");
-
-        if (CurrentSanity <= 0f) OnSanityDepleted();
-    }
-
-    public void RestoreSanity(float amount)
-    {
-        CurrentSanity = Mathf.Min(CurrentSanity + amount, maxSanity);
-        Debug.Log($"<color=magenta>[SANITY RESTORED]</color> Current Sanity: {CurrentSanity:F1}/{maxSanity}");
-    }
-
-    private void OnSanityDepleted()
-    {
-        // Custom effect when sanity reaches 0
-    }
-
-    // =====================================
-    // JUMP SYSTEM
-    // =====================================
-
+    // JUMP
     public void StartJump()
     {
-        if (IsBusy) return;
-
-        if (!UseStamina(jumpStaminaCost))
-        {
-            Debug.LogWarning("<color=yellow>[JUMP FAILED]</color> Not enough stamina!");
+        if (IsBusy || !UseStamina(jumpStaminaCost))
             return;
-        }
 
         CurrentState = State.Jumping;
         jumpTimer = 0f;
-
         SetAnimBool(IsJumpingHash, true);
     }
 
-    private void UpdateJumpVisual()
+    private void UpdateJumpState()
     {
-        if (CurrentState != State.Jumping) return;
+        if (CurrentState != State.Jumping)
+            return;
 
         jumpTimer += Time.deltaTime;
-
         if (jumpTimer >= jumpDuration)
-        {
             AnimationEvent_EndJump();
-        }
     }
 
     public void AnimationEvent_EndJump()
     {
-        if (CurrentState != State.Jumping) return;
+        if (CurrentState != State.Jumping)
+            return;
 
-        CurrentState = State.Normal;
         jumpTimer = 0f;
-
+        CurrentState = State.Normal;
         SetAnimBool(IsJumpingHash, false);
     }
 
-    // =====================================
-    // DODGE SYSTEM
-    // =====================================
-
+    // DODGE
     public void StartDodge()
     {
-        if (IsBusy || Time.time < lastDodgeTime + dodgeCooldown) return;
+        if (IsBusy || Time.time < lastDodgeTime + dodgeCooldown)
+            return;
 
         if (!UseStamina(dodgeStaminaCost))
-        {
-            Debug.LogWarning("<color=yellow>[DODGE FAILED]</color> Not enough stamina!");
             return;
-        }
 
         lastDodgeTime = Time.time;
         dodgeDirection = moveInput != Vector2.zero ? moveInput : facingDirection;
         CurrentState = State.Dodging;
         dodgeTimer = 0f;
         IsRunning = false;
-
-        Debug.Log($"<color=cyan>[DODGE STARTED]</color> Direction: {dodgeDirection} | Stamina Left: {CurrentStamina:F1}");
 
         if (animator != null)
         {
@@ -335,124 +358,50 @@ public class PlayerController : MonoBehaviour
 
     private void UpdateDodgeState()
     {
-        if (CurrentState != State.Dodging) return;
+        if (CurrentState != State.Dodging)
+            return;
 
         dodgeTimer += Time.deltaTime;
-
         if (dodgeTimer >= dodgeDuration)
-        {
             AnimationEvent_EndDodge();
-        }
     }
 
     public void AnimationEvent_EndDodge()
     {
-        if (CurrentState != State.Dodging) return;
+        if (CurrentState != State.Dodging)
+            return;
 
+        dodgeTimer = 0f;
         CurrentState = State.Normal;
         rb.linearVelocity = Vector2.zero;
         SetAnimBool(IsDodgingHash, false);
-
-        Debug.Log("<color=green>[DODGE ENDED]</color> State reset to Normal.");
     }
 
-    // =====================================
-    // DAMAGE, SHIELD, DEATH & REVIVE
-    // =====================================
-
-    public void TakeDamage() => ProcessIncomingHit(State.Hurt, IsHurtHash);
-    public void TakeFireDamage() => ProcessIncomingHit(State.Burning, IsBurningHash);
-
-    private void ProcessIncomingHit(State hurtState, int animHash)
+    // DAMAGE ANIMATION EVENTS
+    public void AnimationEvent_EndHurt()
     {
-        if (IsBusy) return;
+        EndDamageState(State.Hurt, IsHurtHash);
+    }
 
-        if (CurrentShieldCores > 0)
-        {
-            CurrentShieldCores--;
-            Debug.Log($"<color=blue>[SHIELD CORE ABSORBED HIT]</color> Shield Cores left: {CurrentShieldCores}/{maxShieldCores}");
-            TriggerDamageState(hurtState, animHash);
+    public void AnimationEvent_EndBurn()
+    {
+        EndDamageState(State.Burning, IsBurningHash);
+    }
+
+    private void EndDamageState(State state, int animationHash)
+    {
+        if (CurrentState != state)
             return;
-        }
-
-        Debug.Log("<color=red>[SHIELD BROKEN - TAKING DAMAGE]</color>");
-        TriggerDamageState(hurtState, animHash);
-    }
-
-    private void TriggerDamageState(State state, int animHash)
-    {
-        CurrentState = state;
-        moveInput = Vector2.zero;
-        IsRunning = false;
-        rb.linearVelocity = Vector2.zero;
-        SetAnimBool(animHash, true);
-    }
-
-    public void AnimationEvent_EndHurt() => EndDamageState(State.Hurt, IsHurtHash);
-    public void AnimationEvent_EndBurn() => EndDamageState(State.Burning, IsBurningHash);
-
-    private void EndDamageState(State state, int animHash)
-    {
-        if (CurrentState != state) return;
 
         CurrentState = State.Normal;
-        SetAnimBool(animHash, false);
+        SetAnimBool(animationHash, false);
     }
 
-    public void RestoreShieldCore(int amount = 1)
-    {
-        CurrentShieldCores = Mathf.Min(CurrentShieldCores + amount, maxShieldCores);
-        Debug.Log($"<color=blue>[SHIELD RESTORED]</color> Current Shield Cores: {CurrentShieldCores}/{maxShieldCores}");
-    }
-
-    public void Die()
-    {
-        if (CurrentState == State.Dead) return;
-
-        CurrentState = State.Dead;
-        moveInput = Vector2.zero;
-        IsRunning = false;
-        rb.linearVelocity = Vector2.zero;
-
-        if (playerVisual != null)
-            playerVisual.localPosition = originalVisualPosition;
-
-        SetAnimBool(IsDeadHash, true);
-        Debug.Log($"<color=red>[PLAYER DIED]</color> Hearts left: {CurrentHearts}. Press 'R' to spend a heart and revive.");
-    }
-
-    public bool TryRevive()
-    {
-        if (CurrentState != State.Dead) return false;
-
-        if (CurrentHearts > 0)
-        {
-            CurrentHearts--;
-            CurrentStamina = maxStamina;
-            CurrentState = State.Normal;
-            SetAnimBool(IsDeadHash, false);
-
-            Debug.Log($"<color=green>[PLAYER REVIVED]</color> Spent 1 heart. Hearts remaining: {CurrentHearts}");
-            return true;
-        }
-
-        Debug.LogWarning("<color=red>[REVIVE FAILED]</color> No hearts remaining! Game Over.");
-        return false;
-    }
-
-    public void AddHeart(int amount = 1)
-    {
-        CurrentHearts = Mathf.Min(CurrentHearts + amount, maxHearts);
-        Debug.Log($"<color=yellow>[HEART GAINED]</color> Current hearts: {CurrentHearts}/{maxHearts}");
-    }
-
-    // =====================================
-    // ANIMATION & HELPERS
-    // =====================================
-
+    // ANIMATION HELPERS
     private void UpdateAnimations()
     {
-        if (animator == null) return;
+        if (animator == null)
+            return;
 
         animator.SetFloat(MoveXHash, moveInput.x);
         animator.SetFloat(MoveYHash, moveInput.y);
@@ -460,6 +409,16 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat(LastMoveYHash, facingDirection.y);
         animator.SetBool(IsMovingHash, moveInput != Vector2.zero);
         animator.SetBool(IsRunningHash, IsRunning);
+    }
+
+    private void ClearActionAnimationFlags()
+    {
+        SetAnimBool(IsJumpingHash, false);
+        SetAnimBool(IsDodgingHash, false);
+        SetAnimBool(IsHurtHash, false);
+        SetAnimBool(IsBurningHash, false);
+        SetAnimBool(IsRunningHash, false);
+        SetAnimBool(IsMovingHash, false);
     }
 
     private void SetAnimBool(int parameterHash, bool value)
