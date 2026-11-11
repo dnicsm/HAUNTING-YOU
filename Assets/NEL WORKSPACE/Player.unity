@@ -268,6 +268,7 @@ GameObject:
   - component: {fileID: 1144787834}
   - component: {fileID: 1144787833}
   - component: {fileID: 1144787832}
+  - component: {fileID: 1144787836}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -296,20 +297,14 @@ MonoBehaviour:
   dodgeCooldown: 0.8
   dodgeDuration: 0.3
   dodgeStaminaCost: 25
-  maxHearts: 3
-  <CurrentHearts>k__BackingField: 0
-  maxShieldCores: 3
-  <CurrentShieldCores>k__BackingField: 0
   maxStamina: 100
   staminaRegenRate: 15
   staminaRegenDelay: 1.2
   <CurrentStamina>k__BackingField: 0
-  maxSanity: 100
-  sanityDrainRate: 1
-  <CurrentSanity>k__BackingField: 0
   rb: {fileID: 1144787834}
   animator: {fileID: 1232076128}
   playerVisual: {fileID: 1232076126}
+  playerHealth: {fileID: 0}
   <CurrentState>k__BackingField: 0
 --- !u!70 &1144787833
 CapsuleCollider2D:
@@ -391,6 +386,26 @@ Transform:
   - {fileID: 1232076126}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1144787836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1144787831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1176b71398b56244680ab0e5ab731478, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+  maxHealth: 100
+  maxShield: 50
+  defaultNormalDamage: 25
+  defaultFireDamage: 10
+  startingHearts: 0
+  <CurrentHealth>k__BackingField: 0
+  <CurrentShield>k__BackingField: 0
+  <CurrentHearts>k__BackingField: 0
 --- !u!1 &1232076125
 GameObject:
   m_ObjectHideFlags: 0
