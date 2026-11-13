@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 339f33c01796843448149996baa96646
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6915981594354059395
+    second: regular_glyphs_base_7x16_0
+  - first:
+      213: -3546815598886965662
+    second: regular_glyphs_base_7x16_1
+  - first:
+      213: 5910409689742702062
+    second: regular_glyphs_base_7x16_2
+  - first:
+      213: -280928784551154560
+    second: regular_glyphs_base_7x16_3
+  - first:
+      213: 7094648583496903708
+    second: regular_glyphs_base_7x16_4
+  - first:
+      213: 3789069698722071667
+    second: regular_glyphs_base_7x16_5
+  - first:
+      213: 748607401970092673
+    second: regular_glyphs_base_7x16_6
+  - first:
+      213: 8188668105033874389
+    second: regular_glyphs_base_7x16_7
+  - first:
+      213: 8825673798936975328
+    second: regular_glyphs_base_7x16_8
+  - first:
+      213: -9144271018537391946
+    second: regular_glyphs_base_7x16_9
+  - first:
+      213: 5337170216068560103
+    second: regular_glyphs_base_7x16_10
+  - first:
+      213: -8314181014264991209
+    second: regular_glyphs_base_7x16_11
+  - first:
+      213: 4645850503435219306
+    second: regular_glyphs_base_7x16_12
+  - first:
+      213: -1381601338276679965
+    second: regular_glyphs_base_7x16_13
+  - first:
+      213: -6957978225593476254
+    second: regular_glyphs_base_7x16_14
+  - first:
+      213: 9056201442258365255
+    second: regular_glyphs_base_7x16_15
+  - first:
+      213: -5343399629536255090
+    second: regular_glyphs_base_7x16_16
+  - first:
+      213: 846549526950425875
+    second: regular_glyphs_base_7x16_17
+  - first:
+      213: -3880557871409320043
+    second: regular_glyphs_base_7x16_18
+  - first:
+      213: 2360891501244112250
+    second: regular_glyphs_base_7x16_19
+  - first:
+      213: 2759655829761359976
+    second: regular_glyphs_base_7x16_20
+  - first:
+      213: -7346015268649630306
+    second: regular_glyphs_base_7x16_21
+  - first:
+      213: 1492514699672096211
+    second: regular_glyphs_base_7x16_22
+  - first:
+      213: 3081118360795355943
+    second: regular_glyphs_base_7x16_23
+  - first:
+      213: -288026794209360504
+    second: regular_glyphs_base_7x16_24
+  - first:
+      213: 654543026166922266
+    second: regular_glyphs_base_7x16_25
+  - first:
+      213: -7440744046069176727
+    second: regular_glyphs_base_7x16_26
+  - first:
+      213: 937525653755079771
+    second: regular_glyphs_base_7x16_27
+  - first:
+      213: -4122871828017453878
+    second: regular_glyphs_base_7x16_28
+  - first:
+      213: -2412875499945538024
+    second: regular_glyphs_base_7x16_29
+  - first:
+      213: 1888117339813996319
+    second: regular_glyphs_base_7x16_30
+  - first:
+      213: -8344580841097504818
+    second: regular_glyphs_base_7x16_31
+  - first:
+      213: -2524484095458476065
+    second: regular_glyphs_base_7x16_32
+  - first:
+      213: -2500022808497537571
+    second: regular_glyphs_base_7x16_33
+  - first:
+      213: -699245914271072791
+    second: regular_glyphs_base_7x16_34
+  - first:
+      213: -7813316911052782915
+    second: regular_glyphs_base_7x16_35
+  - first:
+      213: -8775547965501313799
+    second: regular_glyphs_base_7x16_36
+  - first:
+      213: -594312580916184583
+    second: regular_glyphs_base_7x16_37
+  - first:
+      213: -8451495094046020639
+    second: regular_glyphs_base_7x16_38
+  - first:
+      213: 6624890613423894098
+    second: regular_glyphs_base_7x16_39
+  - first:
+      213: 7299039280031177714
+    second: regular_glyphs_base_7x16_40
+  - first:
+      213: 5606649606639835748
+    second: regular_glyphs_base_7x16_41
+  - first:
+      213: 2363789784650532077
+    second: regular_glyphs_base_7x16_42
+  - first:
+      213: -318551088183526442
+    second: regular_glyphs_base_7x16_43
+  - first:
+      213: -3843756883251229746
+    second: regular_glyphs_base_7x16_44
+  - first:
+      213: 3484403857755321358
+    second: regular_glyphs_base_7x16_45
+  - first:
+      213: 3387005422255722152
+    second: regular_glyphs_base_7x16_46
+  - first:
+      213: -3697504965050245507
+    second: regular_glyphs_base_7x16_47
+  - first:
+      213: -910623918350261094
+    second: regular_glyphs_base_7x16_48
+  - first:
+      213: -5660070455467462611
+    second: regular_glyphs_base_7x16_49
+  - first:
+      213: -1879341585270879753
+    second: regular_glyphs_base_7x16_50
+  - first:
+      213: 6955542514411518480
+    second: regular_glyphs_base_7x16_51
+  - first:
+      213: -3928964996095762257
+    second: regular_glyphs_base_7x16_52
+  - first:
+      213: -8376594957163142021
+    second: regular_glyphs_base_7x16_53
+  - first:
+      213: 7306748476268286718
+    second: regular_glyphs_base_7x16_54
+  - first:
+      213: 5614016724149505020
+    second: regular_glyphs_base_7x16_55
+  - first:
+      213: 2403366949211522762
+    second: regular_glyphs_base_7x16_56
+  - first:
+      213: 1939604378713344848
+    second: regular_glyphs_base_7x16_57
+  - first:
+      213: 6594176102006971912
+    second: regular_glyphs_base_7x16_58
+  - first:
+      213: 8731910944129722889
+    second: regular_glyphs_base_7x16_59
+  - first:
+      213: 1855437774031726761
+    second: regular_glyphs_base_7x16_60
+  - first:
+      213: -4769703154254046803
+    second: regular_glyphs_base_7x16_61
+  - first:
+      213: 7958301492068590317
+    second: regular_glyphs_base_7x16_62
+  - first:
+      213: -4660679332824320741
+    second: regular_glyphs_base_7x16_63
+  - first:
+      213: 4264736308732122053
+    second: regular_glyphs_base_7x16_64
+  - first:
+      213: -7106971938669656418
+    second: regular_glyphs_base_7x16_65
+  - first:
+      213: 3918709772733966052
+    second: regular_glyphs_base_7x16_66
+  - first:
+      213: -1701235088684733931
+    second: regular_glyphs_base_7x16_67
+  - first:
+      213: -4772296427346843483
+    second: regular_glyphs_base_7x16_68
+  - first:
+      213: -5587089522012373068
+    second: regular_glyphs_base_7x16_69
+  - first:
+      213: -5468364526295739913
+    second: regular_glyphs_base_7x16_70
+  - first:
+      213: 870773326879810725
+    second: regular_glyphs_base_7x16_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880d9c1e908aff50800000000000000
+      internalID: 6915981594354059395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2780310e27cec0800000000000000
+      internalID: -3546815598886965662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f3225c4ef50250800000000000000
+      internalID: 5910409689742702062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c65a542c0f91cf0800000000000000
+      internalID: -280928784551154560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1caf813c41457260800000000000000
+      internalID: 7094648583496903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374868dc0da759430800000000000000
+      internalID: 3789069698722071667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac7ae3776936a00800000000000000
+      internalID: 748607401970092673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db7d10914ef3a170800000000000000
+      internalID: 8188668105033874389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e75c194f871b7a70800000000000000
+      internalID: 8825673798936975328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ed2205f5091180800000000000000
+      internalID: -9144271018537391946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4bf82b800711a40800000000000000
+      internalID: 5337170216068560103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712307efa681e9c80800000000000000
+      internalID: -8314181014264991209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6173d80b60697040800000000000000
+      internalID: 4645850503435219306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee60d227e093dce0800000000000000
+      internalID: -1381601338276679965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b19943bab407f90800000000000000
+      internalID: -6957978225593476254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 67
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba03cda371ead70800000000000000
+      internalID: 9056201442258365255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a984f85e68d5b0800000000000000
+      internalID: -5343399629536255090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 67
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315b7ae3f4c8fbb00800000000000000
+      internalID: 846549526950425875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2d401d2d752ac0800000000000000
+      internalID: -3880557871409320043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd4e4df4293c020800000000000000
+      internalID: 2360891501244112250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860034b1b544c4620800000000000000
+      internalID: 2759655829761359976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950b85b806bd0a90800000000000000
+      internalID: -7346015268649630306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd0100363a76b410800000000000000
+      internalID: 1492514699672096211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b142e13d452ca20800000000000000
+      internalID: 3081118360795355943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854b5d1829b00cf0800000000000000
+      internalID: -288026794209360504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c73e41a67651900800000000000000
+      internalID: 654543026166922266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a17d76ba2db890800000000000000
+      internalID: -7440744046069176727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c23e76d92c20d00800000000000000
+      internalID: 937525653755079771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ed849aed98c6c0800000000000000
+      internalID: -4122871828017453878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ec08a448eb38ed0800000000000000
+      internalID: -2412875499945538024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176ed587b0f33a10800000000000000
+      internalID: 1888117339813996319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75adebfe7123c80800000000000000
+      internalID: -8344580841097504818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff219271b37fcd0800000000000000
+      internalID: -2524484095458476065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd312950822e4dd0800000000000000
+      internalID: -2500022808497537571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edba35bb87cb46f0800000000000000
+      internalID: -699245914271072791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db285278aa5819390800000000000000
+      internalID: -7813316911052782915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc64e6ce9df63680800000000000000
+      internalID: -8775547965501313799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f1f04bd390c7f0800000000000000
+      internalID: -594312580916184583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2e6a6df146ba80800000000000000
+      internalID: -8451495094046020639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e63f8a9e650fb50800000000000000
+      internalID: 6624890613423894098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb91ef9d856b4560800000000000000
+      internalID: 7299039280031177714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad9d7ac12decd40800000000000000
+      internalID: 5606649606639835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4cac5094eddc020800000000000000
+      internalID: 2363789784650532077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbb10a1977449bf0800000000000000
+      internalID: -318551088183526442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb09d2da7b38aac0800000000000000
+      internalID: -3843756883251229746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b183f8d61b5030800000000000000
+      internalID: 3484403857755321358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aecfd58c7f010f20800000000000000
+      internalID: 3387005422255722152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7edfe213d2dfacc0800000000000000
+      internalID: -3697504965050245507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9422c6fe50dc53f0800000000000000
+      internalID: -910623918350261094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20bd2ab8e36371b0800000000000000
+      internalID: -5660070455467462611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f94f4e09cc3be5e0800000000000000
+      internalID: -1879341585270879753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a30a7901d078060800000000000000
+      internalID: 6955542514411518480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a4c017238979c0800000000000000
+      internalID: -3928964996095762257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7466fe744b50cb80800000000000000
+      internalID: -8376594957163142021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2191fb609c66560800000000000000
+      internalID: 7306748476268286718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb880e577ef8ed40800000000000000
+      internalID: 5614016724149505020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6caa8b1897a5120800000000000000
+      internalID: 2403366949211522762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b400ee7ebdaea10800000000000000
+      internalID: 1939604378713344848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ede723a38338b50800000000000000
+      internalID: 6594176102006971912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa2337dbafd2970800000000000000
+      internalID: 8731910944129722889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a00033d6dfb910800000000000000
+      internalID: 1855437774031726761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da990ae804c9ecdb0800000000000000
+      internalID: -4769703154254046803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2a53aca01917e60800000000000000
+      internalID: 7958301492068590317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_63
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15700317d0f15fb0800000000000000
+      internalID: -4660679332824320741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c350b6c3136f2b30800000000000000
+      internalID: 4264736308732122053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e960de61da6fe5d90800000000000000
+      internalID: -7106971938669656418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6e8ada6cd026630800000000000000
+      internalID: 3918709772733966052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a248b43bff368e0800000000000000
+      internalID: -1701235088684733931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8202d1fa565cdb0800000000000000
+      internalID: -4772296427346843483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf35207eaba672b0800000000000000
+      internalID: -5587089522012373068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19bcb9f677c14b0800000000000000
+      internalID: -5468364526295739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regular_glyphs_base_7x16_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a46e8c2abb951c00800000000000000
+      internalID: 870773326879810725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      regular_glyphs_base_7x16_0: 6915981594354059395
+      regular_glyphs_base_7x16_1: -3546815598886965662
+      regular_glyphs_base_7x16_10: 5337170216068560103
+      regular_glyphs_base_7x16_11: -8314181014264991209
+      regular_glyphs_base_7x16_12: 4645850503435219306
+      regular_glyphs_base_7x16_13: -1381601338276679965
+      regular_glyphs_base_7x16_14: -6957978225593476254
+      regular_glyphs_base_7x16_15: 9056201442258365255
+      regular_glyphs_base_7x16_16: -5343399629536255090
+      regular_glyphs_base_7x16_17: 846549526950425875
+      regular_glyphs_base_7x16_18: -3880557871409320043
+      regular_glyphs_base_7x16_19: 2360891501244112250
+      regular_glyphs_base_7x16_2: 5910409689742702062
+      regular_glyphs_base_7x16_20: 2759655829761359976
+      regular_glyphs_base_7x16_21: -7346015268649630306
+      regular_glyphs_base_7x16_22: 1492514699672096211
+      regular_glyphs_base_7x16_23: 3081118360795355943
+      regular_glyphs_base_7x16_24: -288026794209360504
+      regular_glyphs_base_7x16_25: 654543026166922266
+      regular_glyphs_base_7x16_26: -7440744046069176727
+      regular_glyphs_base_7x16_27: 937525653755079771
+      regular_glyphs_base_7x16_28: -4122871828017453878
+      regular_glyphs_base_7x16_29: -2412875499945538024
+      regular_glyphs_base_7x16_3: -280928784551154560
+      regular_glyphs_base_7x16_30: 1888117339813996319
+      regular_glyphs_base_7x16_31: -8344580841097504818
+      regular_glyphs_base_7x16_32: -2524484095458476065
+      regular_glyphs_base_7x16_33: -2500022808497537571
+      regular_glyphs_base_7x16_34: -699245914271072791
+      regular_glyphs_base_7x16_35: -7813316911052782915
+      regular_glyphs_base_7x16_36: -8775547965501313799
+      regular_glyphs_base_7x16_37: -594312580916184583
+      regular_glyphs_base_7x16_38: -8451495094046020639
+      regular_glyphs_base_7x16_39: 6624890613423894098
+      regular_glyphs_base_7x16_4: 7094648583496903708
+      regular_glyphs_base_7x16_40: 7299039280031177714
+      regular_glyphs_base_7x16_41: 5606649606639835748
+      regular_glyphs_base_7x16_42: 2363789784650532077
+      regular_glyphs_base_7x16_43: -318551088183526442
+      regular_glyphs_base_7x16_44: -3843756883251229746
+      regular_glyphs_base_7x16_45: 3484403857755321358
+      regular_glyphs_base_7x16_46: 3387005422255722152
+      regular_glyphs_base_7x16_47: -3697504965050245507
+      regular_glyphs_base_7x16_48: -910623918350261094
+      regular_glyphs_base_7x16_49: -5660070455467462611
+      regular_glyphs_base_7x16_5: 3789069698722071667
+      regular_glyphs_base_7x16_50: -1879341585270879753
+      regular_glyphs_base_7x16_51: 6955542514411518480
+      regular_glyphs_base_7x16_52: -3928964996095762257
+      regular_glyphs_base_7x16_53: -8376594957163142021
+      regular_glyphs_base_7x16_54: 7306748476268286718
+      regular_glyphs_base_7x16_55: 5614016724149505020
+      regular_glyphs_base_7x16_56: 2403366949211522762
+      regular_glyphs_base_7x16_57: 1939604378713344848
+      regular_glyphs_base_7x16_58: 6594176102006971912
+      regular_glyphs_base_7x16_59: 8731910944129722889
+      regular_glyphs_base_7x16_6: 748607401970092673
+      regular_glyphs_base_7x16_60: 1855437774031726761
+      regular_glyphs_base_7x16_61: -4769703154254046803
+      regular_glyphs_base_7x16_62: 7958301492068590317
+      regular_glyphs_base_7x16_63: -4660679332824320741
+      regular_glyphs_base_7x16_64: 4264736308732122053
+      regular_glyphs_base_7x16_65: -7106971938669656418
+      regular_glyphs_base_7x16_66: 3918709772733966052
+      regular_glyphs_base_7x16_67: -1701235088684733931
+      regular_glyphs_base_7x16_68: -4772296427346843483
+      regular_glyphs_base_7x16_69: -5587089522012373068
+      regular_glyphs_base_7x16_7: 8188668105033874389
+      regular_glyphs_base_7x16_70: -5468364526295739913
+      regular_glyphs_base_7x16_71: 870773326879810725
+      regular_glyphs_base_7x16_8: 8825673798936975328
+      regular_glyphs_base_7x16_9: -9144271018537391946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

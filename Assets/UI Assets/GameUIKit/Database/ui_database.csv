@@ -1,0 +1,1184 @@
+piece,theme,file,w,h,frames,fps,nine_slice,states,anchor,tag,tileable,note
+panel,wood,01_Frames_Windows/Wood/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,wood,01_Frames_Windows/Wood/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,wood,01_Frames_Windows/Wood/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,wood,01_Frames_Windows/Wood/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,wood,01_Frames_Windows/Wood/divider_64x7.png,64,7,1,,"6,0,6,0",,,original,False,3-slice: stretch horizontally
+tab,wood,01_Frames_Windows/Wood/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,wood,01_Frames_Windows/Wood/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,wood,01_Frames_Windows/Wood/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,wood,01_Frames_Windows/Wood/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,wood,01_Frames_Windows/Wood/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,wood,01_Frames_Windows/Wood/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,wood,01_Frames_Windows/Wood/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,wood,01_Frames_Windows/Wood/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,wood,01_Frames_Windows/Wood/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,wood,01_Frames_Windows/Wood/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,wood,01_Frames_Windows/Wood/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,wood,01_Frames_Windows/Wood/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,wood,01_Frames_Windows/Wood/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,wood,01_Frames_Windows/Wood/corner_ornament_2_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,wood,01_Frames_Windows/Wood/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,wood,01_Frames_Windows/Wood/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,wood,01_Frames_Windows/Wood/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,wood,01_Frames_Windows/Wood/recolors/panel_dark_wood.png,48,48,1,,,,,recolor,False,colour variant 'dark_wood'
+title_bar,wood,01_Frames_Windows/Wood/recolors/title_bar_dark_wood.png,80,16,1,,,,,recolor,False,colour variant 'dark_wood'
+button,wood,01_Frames_Windows/Wood/recolors/button_dark_wood.png,48,18,1,,,,,recolor,False,colour variant 'dark_wood'
+tab_active,wood,01_Frames_Windows/Wood/recolors/tab_active_dark_wood.png,34,18,1,,,,,recolor,False,colour variant 'dark_wood'
+panel,stone,01_Frames_Windows/Stone/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,stone,01_Frames_Windows/Stone/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,stone,01_Frames_Windows/Stone/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,stone,01_Frames_Windows/Stone/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,stone,01_Frames_Windows/Stone/divider_64x7.png,64,7,1,,"6,0,6,0",,,original,False,3-slice: stretch horizontally
+tab,stone,01_Frames_Windows/Stone/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,stone,01_Frames_Windows/Stone/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,stone,01_Frames_Windows/Stone/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,stone,01_Frames_Windows/Stone/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,stone,01_Frames_Windows/Stone/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,stone,01_Frames_Windows/Stone/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,stone,01_Frames_Windows/Stone/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,stone,01_Frames_Windows/Stone/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,stone,01_Frames_Windows/Stone/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,stone,01_Frames_Windows/Stone/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,stone,01_Frames_Windows/Stone/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,stone,01_Frames_Windows/Stone/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,stone,01_Frames_Windows/Stone/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,stone,01_Frames_Windows/Stone/corner_ornament_2_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,stone,01_Frames_Windows/Stone/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,stone,01_Frames_Windows/Stone/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,stone,01_Frames_Windows/Stone/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,stone,01_Frames_Windows/Stone/recolors/panel_sandstone.png,48,48,1,,,,,recolor,False,colour variant 'sandstone'
+title_bar,stone,01_Frames_Windows/Stone/recolors/title_bar_sandstone.png,80,16,1,,,,,recolor,False,colour variant 'sandstone'
+button,stone,01_Frames_Windows/Stone/recolors/button_sandstone.png,48,18,1,,,,,recolor,False,colour variant 'sandstone'
+tab_active,stone,01_Frames_Windows/Stone/recolors/tab_active_sandstone.png,34,18,1,,,,,recolor,False,colour variant 'sandstone'
+panel,parchment,01_Frames_Windows/Parchment/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,parchment,01_Frames_Windows/Parchment/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,parchment,01_Frames_Windows/Parchment/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,parchment,01_Frames_Windows/Parchment/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,parchment,01_Frames_Windows/Parchment/divider_66x9.png,66,9,1,,"7,1,7,1",,,original,False,3-slice: stretch horizontally
+tab,parchment,01_Frames_Windows/Parchment/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,parchment,01_Frames_Windows/Parchment/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,parchment,01_Frames_Windows/Parchment/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,parchment,01_Frames_Windows/Parchment/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,parchment,01_Frames_Windows/Parchment/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,parchment,01_Frames_Windows/Parchment/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,parchment,01_Frames_Windows/Parchment/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,parchment,01_Frames_Windows/Parchment/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,parchment,01_Frames_Windows/Parchment/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,parchment,01_Frames_Windows/Parchment/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,parchment,01_Frames_Windows/Parchment/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,parchment,01_Frames_Windows/Parchment/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,parchment,01_Frames_Windows/Parchment/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,parchment,01_Frames_Windows/Parchment/corner_ornament_2_tl_18x18.png,18,18,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,parchment,01_Frames_Windows/Parchment/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,parchment,01_Frames_Windows/Parchment/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,parchment,01_Frames_Windows/Parchment/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,parchment,01_Frames_Windows/Parchment/recolors/panel_aged.png,48,48,1,,,,,recolor,False,colour variant 'aged'
+title_bar,parchment,01_Frames_Windows/Parchment/recolors/title_bar_aged.png,80,16,1,,,,,recolor,False,colour variant 'aged'
+button,parchment,01_Frames_Windows/Parchment/recolors/button_aged.png,48,18,1,,,,,recolor,False,colour variant 'aged'
+tab_active,parchment,01_Frames_Windows/Parchment/recolors/tab_active_aged.png,34,18,1,,,,,recolor,False,colour variant 'aged'
+panel,dark,01_Frames_Windows/Dark/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,dark,01_Frames_Windows/Dark/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,dark,01_Frames_Windows/Dark/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,dark,01_Frames_Windows/Dark/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,dark,01_Frames_Windows/Dark/divider_64x7.png,64,7,1,,"6,0,6,0",,,original,False,3-slice: stretch horizontally
+tab,dark,01_Frames_Windows/Dark/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,dark,01_Frames_Windows/Dark/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,dark,01_Frames_Windows/Dark/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,dark,01_Frames_Windows/Dark/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,dark,01_Frames_Windows/Dark/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,dark,01_Frames_Windows/Dark/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,dark,01_Frames_Windows/Dark/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,dark,01_Frames_Windows/Dark/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,dark,01_Frames_Windows/Dark/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,dark,01_Frames_Windows/Dark/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,dark,01_Frames_Windows/Dark/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,dark,01_Frames_Windows/Dark/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,dark,01_Frames_Windows/Dark/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,dark,01_Frames_Windows/Dark/corner_ornament_2_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,dark,01_Frames_Windows/Dark/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,dark,01_Frames_Windows/Dark/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,dark,01_Frames_Windows/Dark/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,dark,01_Frames_Windows/Dark/recolors/panel_crimson.png,48,48,1,,,,,recolor,False,colour variant 'crimson'
+title_bar,dark,01_Frames_Windows/Dark/recolors/title_bar_crimson.png,80,16,1,,,,,recolor,False,colour variant 'crimson'
+button,dark,01_Frames_Windows/Dark/recolors/button_crimson.png,48,18,1,,,,,recolor,False,colour variant 'crimson'
+tab_active,dark,01_Frames_Windows/Dark/recolors/tab_active_crimson.png,34,18,1,,,,,recolor,False,colour variant 'crimson'
+panel,gold,01_Frames_Windows/Gold/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,gold,01_Frames_Windows/Gold/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,gold,01_Frames_Windows/Gold/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,gold,01_Frames_Windows/Gold/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,gold,01_Frames_Windows/Gold/divider_64x7.png,64,7,1,,"6,0,6,0",,,original,False,3-slice: stretch horizontally
+tab,gold,01_Frames_Windows/Gold/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,gold,01_Frames_Windows/Gold/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,gold,01_Frames_Windows/Gold/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,gold,01_Frames_Windows/Gold/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,gold,01_Frames_Windows/Gold/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,gold,01_Frames_Windows/Gold/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,gold,01_Frames_Windows/Gold/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,gold,01_Frames_Windows/Gold/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,gold,01_Frames_Windows/Gold/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,gold,01_Frames_Windows/Gold/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,gold,01_Frames_Windows/Gold/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,gold,01_Frames_Windows/Gold/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,gold,01_Frames_Windows/Gold/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,gold,01_Frames_Windows/Gold/corner_ornament_2_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,gold,01_Frames_Windows/Gold/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,gold,01_Frames_Windows/Gold/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,gold,01_Frames_Windows/Gold/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,gold,01_Frames_Windows/Gold/recolors/panel_silver.png,48,48,1,,,,,recolor,False,colour variant 'silver'
+title_bar,gold,01_Frames_Windows/Gold/recolors/title_bar_silver.png,80,16,1,,,,,recolor,False,colour variant 'silver'
+button,gold,01_Frames_Windows/Gold/recolors/button_silver.png,48,18,1,,,,,recolor,False,colour variant 'silver'
+tab_active,gold,01_Frames_Windows/Gold/recolors/tab_active_silver.png,34,18,1,,,,,recolor,False,colour variant 'silver'
+panel,pastel,01_Frames_Windows/Pastel/panel_48x48.png,48,48,1,,"8,8,8,8",,,original,False,main window; corners hold the ornaments
+inset_panel,pastel,01_Frames_Windows/Pastel/inset_panel_32x32.png,32,32,1,,"4,4,4,4",,,original,False,recessed area inside a panel
+title_bar,pastel,01_Frames_Windows/Pastel/title_bar_80x16.png,80,16,1,,"8,4,8,4",,,original,False,
+header_ribbon,pastel,01_Frames_Windows/Pastel/header_ribbon_98x24.png,98,24,1,,"15,5,15,9",,,original,False,stretch only the centre band
+divider,pastel,01_Frames_Windows/Pastel/divider_64x7.png,64,7,1,,"6,0,6,0",,,original,False,3-slice: stretch horizontally
+tab,pastel,01_Frames_Windows/Pastel/tab_active_32x16.png,32,16,1,,"5,4,5,2",active,,original,True,bottom edge joins the panel (active tab is open at the bottom)
+tab,pastel,01_Frames_Windows/Pastel/tab_inactive_32x16.png,32,16,1,,"5,4,5,2",inactive,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+tab,pastel,01_Frames_Windows/Pastel/tab_hover_32x16.png,32,16,1,,"5,4,5,2",hover,,original,False,bottom edge joins the panel (active tab is open at the bottom)
+scroll_track,pastel,01_Frames_Windows/Pastel/scroll_track_8x32.png,8,32,1,,"0,4,0,4",,,original,False,3-slice vertical
+scroll_thumb,pastel,01_Frames_Windows/Pastel/scroll_thumb_normal_8x16.png,8,16,1,,"0,4,0,4",normal,,original,False,
+scroll_thumb,pastel,01_Frames_Windows/Pastel/scroll_thumb_hover_8x16.png,8,16,1,,"0,4,0,4",hover,,original,False,
+scroll_thumb,pastel,01_Frames_Windows/Pastel/scroll_thumb_pressed_8x16.png,8,16,1,,"0,4,0,4",pressed,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_up_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_up_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_up_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_down_normal_9x9.png,9,9,1,,,normal,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_down_hover_9x9.png,9,9,1,,,hover,,original,False,
+scroll_arrow,pastel,01_Frames_Windows/Pastel/scroll_arrow_down_pressed_9x9.png,9,9,1,,,pressed,,original,False,
+close_button,pastel,01_Frames_Windows/Pastel/close_normal_12x12.png,12,12,1,,,normal,,original,False,
+close_button,pastel,01_Frames_Windows/Pastel/close_hover_12x12.png,12,12,1,,,hover,,original,False,
+close_button,pastel,01_Frames_Windows/Pastel/close_pressed_12x12.png,12,12,1,,,pressed,,original,False,
+close_button,pastel,01_Frames_Windows/Pastel/close_disabled_12x12.png,12,12,1,,,disabled,,original,False,
+corner_ornament,pastel,01_Frames_Windows/Pastel/corner_ornament_1_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+corner_ornament,pastel,01_Frames_Windows/Pastel/corner_ornament_2_tl_16x16.png,16,16,1,,,,,original,False,top-left; flip in the engine for the other corners
+tooltip,pastel,01_Frames_Windows/Pastel/tooltip_24x16.png,24,16,1,,"4,4,4,4",,,original,False,
+tooltip_tail,pastel,01_Frames_Windows/Pastel/tooltip_tail_24x20.png,24,20,1,,"4,4,4,8",,,original,False,tail centred at the bottom; stretch the sides only
+background_tile,pastel,01_Frames_Windows/Pastel/bg_tile_16x16.png,16,16,1,,,,,original,True,seamless background texture
+panel,pastel,01_Frames_Windows/Pastel/recolors/panel_mint.png,48,48,1,,,,,recolor,False,colour variant 'mint'
+title_bar,pastel,01_Frames_Windows/Pastel/recolors/title_bar_mint.png,80,16,1,,,,,recolor,False,colour variant 'mint'
+button,pastel,01_Frames_Windows/Pastel/recolors/button_mint.png,48,18,1,,,,,recolor,False,colour variant 'mint'
+tab_active,pastel,01_Frames_Windows/Pastel/recolors/tab_active_mint.png,34,18,1,,,,,recolor,False,colour variant 'mint'
+button_L,wood,02_Buttons_Controls/Wood/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,wood,02_Buttons_Controls/Wood/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,wood,02_Buttons_Controls/Wood/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,wood,02_Buttons_Controls/Wood/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,wood,02_Buttons_Controls/Wood/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,wood,02_Buttons_Controls/Wood/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,wood,02_Buttons_Controls/Wood/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,wood,02_Buttons_Controls/Wood/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,wood,02_Buttons_Controls/Wood/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,wood,02_Buttons_Controls/Wood/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,wood,02_Buttons_Controls/Wood/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,wood,02_Buttons_Controls/Wood/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,wood,02_Buttons_Controls/Wood/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,wood,02_Buttons_Controls/Wood/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,wood,02_Buttons_Controls/Wood/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,wood,02_Buttons_Controls/Wood/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,wood,02_Buttons_Controls/Wood/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,wood,02_Buttons_Controls/Wood/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,wood,02_Buttons_Controls/Wood/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,wood,02_Buttons_Controls/Wood/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,wood,02_Buttons_Controls/Wood/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,wood,02_Buttons_Controls/Wood/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,wood,02_Buttons_Controls/Wood/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,wood,02_Buttons_Controls/Wood/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,wood,02_Buttons_Controls/Wood/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,wood,02_Buttons_Controls/Wood/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,wood,02_Buttons_Controls/Wood/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,wood,02_Buttons_Controls/Wood/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,wood,02_Buttons_Controls/Wood/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,wood,02_Buttons_Controls/Wood/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,wood,02_Buttons_Controls/Wood/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,wood,02_Buttons_Controls/Wood/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,wood,02_Buttons_Controls/Wood/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,wood,02_Buttons_Controls/Wood/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,wood,02_Buttons_Controls/Wood/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,wood,02_Buttons_Controls/Wood/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,wood,02_Buttons_Controls/Wood/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,wood,02_Buttons_Controls/Wood/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,wood,02_Buttons_Controls/Wood/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,wood,02_Buttons_Controls/Wood/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,wood,02_Buttons_Controls/Wood/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,wood,02_Buttons_Controls/Wood/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,wood,02_Buttons_Controls/Wood/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,wood,02_Buttons_Controls/Wood/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,wood,02_Buttons_Controls/Wood/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,wood,02_Buttons_Controls/Wood/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,wood,02_Buttons_Controls/Wood/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,wood,02_Buttons_Controls/Wood/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,wood,02_Buttons_Controls/Wood/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,wood,02_Buttons_Controls/Wood/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,wood,02_Buttons_Controls/Wood/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,wood,02_Buttons_Controls/Wood/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,wood,02_Buttons_Controls/Wood/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,wood,02_Buttons_Controls/Wood/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,wood,02_Buttons_Controls/Wood/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,wood,02_Buttons_Controls/Wood/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,wood,02_Buttons_Controls/Wood/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+button_L,stone,02_Buttons_Controls/Stone/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,stone,02_Buttons_Controls/Stone/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,stone,02_Buttons_Controls/Stone/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,stone,02_Buttons_Controls/Stone/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,stone,02_Buttons_Controls/Stone/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,stone,02_Buttons_Controls/Stone/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,stone,02_Buttons_Controls/Stone/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,stone,02_Buttons_Controls/Stone/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,stone,02_Buttons_Controls/Stone/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,stone,02_Buttons_Controls/Stone/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,stone,02_Buttons_Controls/Stone/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,stone,02_Buttons_Controls/Stone/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,stone,02_Buttons_Controls/Stone/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,stone,02_Buttons_Controls/Stone/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,stone,02_Buttons_Controls/Stone/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,stone,02_Buttons_Controls/Stone/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,stone,02_Buttons_Controls/Stone/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,stone,02_Buttons_Controls/Stone/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,stone,02_Buttons_Controls/Stone/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,stone,02_Buttons_Controls/Stone/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,stone,02_Buttons_Controls/Stone/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,stone,02_Buttons_Controls/Stone/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,stone,02_Buttons_Controls/Stone/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,stone,02_Buttons_Controls/Stone/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,stone,02_Buttons_Controls/Stone/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,stone,02_Buttons_Controls/Stone/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,stone,02_Buttons_Controls/Stone/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,stone,02_Buttons_Controls/Stone/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,stone,02_Buttons_Controls/Stone/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,stone,02_Buttons_Controls/Stone/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,stone,02_Buttons_Controls/Stone/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,stone,02_Buttons_Controls/Stone/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,stone,02_Buttons_Controls/Stone/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,stone,02_Buttons_Controls/Stone/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,stone,02_Buttons_Controls/Stone/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,stone,02_Buttons_Controls/Stone/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,stone,02_Buttons_Controls/Stone/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,stone,02_Buttons_Controls/Stone/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,stone,02_Buttons_Controls/Stone/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,stone,02_Buttons_Controls/Stone/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,stone,02_Buttons_Controls/Stone/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,stone,02_Buttons_Controls/Stone/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,stone,02_Buttons_Controls/Stone/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,stone,02_Buttons_Controls/Stone/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,stone,02_Buttons_Controls/Stone/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,stone,02_Buttons_Controls/Stone/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,stone,02_Buttons_Controls/Stone/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,stone,02_Buttons_Controls/Stone/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,stone,02_Buttons_Controls/Stone/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,stone,02_Buttons_Controls/Stone/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,stone,02_Buttons_Controls/Stone/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,stone,02_Buttons_Controls/Stone/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,stone,02_Buttons_Controls/Stone/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,stone,02_Buttons_Controls/Stone/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,stone,02_Buttons_Controls/Stone/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,stone,02_Buttons_Controls/Stone/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,stone,02_Buttons_Controls/Stone/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+button_L,parchment,02_Buttons_Controls/Parchment/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,parchment,02_Buttons_Controls/Parchment/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,parchment,02_Buttons_Controls/Parchment/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,parchment,02_Buttons_Controls/Parchment/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,parchment,02_Buttons_Controls/Parchment/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,parchment,02_Buttons_Controls/Parchment/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,parchment,02_Buttons_Controls/Parchment/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,parchment,02_Buttons_Controls/Parchment/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,parchment,02_Buttons_Controls/Parchment/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,parchment,02_Buttons_Controls/Parchment/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,parchment,02_Buttons_Controls/Parchment/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,parchment,02_Buttons_Controls/Parchment/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,parchment,02_Buttons_Controls/Parchment/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,parchment,02_Buttons_Controls/Parchment/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,parchment,02_Buttons_Controls/Parchment/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,parchment,02_Buttons_Controls/Parchment/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,parchment,02_Buttons_Controls/Parchment/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,parchment,02_Buttons_Controls/Parchment/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,parchment,02_Buttons_Controls/Parchment/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,parchment,02_Buttons_Controls/Parchment/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,parchment,02_Buttons_Controls/Parchment/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,parchment,02_Buttons_Controls/Parchment/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,parchment,02_Buttons_Controls/Parchment/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,parchment,02_Buttons_Controls/Parchment/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,parchment,02_Buttons_Controls/Parchment/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,parchment,02_Buttons_Controls/Parchment/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,parchment,02_Buttons_Controls/Parchment/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,parchment,02_Buttons_Controls/Parchment/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,parchment,02_Buttons_Controls/Parchment/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,parchment,02_Buttons_Controls/Parchment/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,parchment,02_Buttons_Controls/Parchment/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,parchment,02_Buttons_Controls/Parchment/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,parchment,02_Buttons_Controls/Parchment/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,parchment,02_Buttons_Controls/Parchment/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,parchment,02_Buttons_Controls/Parchment/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,parchment,02_Buttons_Controls/Parchment/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,parchment,02_Buttons_Controls/Parchment/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,parchment,02_Buttons_Controls/Parchment/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,parchment,02_Buttons_Controls/Parchment/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,parchment,02_Buttons_Controls/Parchment/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,parchment,02_Buttons_Controls/Parchment/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,parchment,02_Buttons_Controls/Parchment/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,parchment,02_Buttons_Controls/Parchment/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,parchment,02_Buttons_Controls/Parchment/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,parchment,02_Buttons_Controls/Parchment/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,parchment,02_Buttons_Controls/Parchment/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,parchment,02_Buttons_Controls/Parchment/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,parchment,02_Buttons_Controls/Parchment/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,parchment,02_Buttons_Controls/Parchment/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,parchment,02_Buttons_Controls/Parchment/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,parchment,02_Buttons_Controls/Parchment/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,parchment,02_Buttons_Controls/Parchment/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+button_L,dark,02_Buttons_Controls/Dark/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,dark,02_Buttons_Controls/Dark/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,dark,02_Buttons_Controls/Dark/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,dark,02_Buttons_Controls/Dark/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,dark,02_Buttons_Controls/Dark/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,dark,02_Buttons_Controls/Dark/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,dark,02_Buttons_Controls/Dark/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,dark,02_Buttons_Controls/Dark/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,dark,02_Buttons_Controls/Dark/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,dark,02_Buttons_Controls/Dark/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,dark,02_Buttons_Controls/Dark/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,dark,02_Buttons_Controls/Dark/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,dark,02_Buttons_Controls/Dark/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,dark,02_Buttons_Controls/Dark/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,dark,02_Buttons_Controls/Dark/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,dark,02_Buttons_Controls/Dark/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,dark,02_Buttons_Controls/Dark/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,dark,02_Buttons_Controls/Dark/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,dark,02_Buttons_Controls/Dark/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,dark,02_Buttons_Controls/Dark/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,dark,02_Buttons_Controls/Dark/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,dark,02_Buttons_Controls/Dark/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,dark,02_Buttons_Controls/Dark/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,dark,02_Buttons_Controls/Dark/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,dark,02_Buttons_Controls/Dark/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,dark,02_Buttons_Controls/Dark/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,dark,02_Buttons_Controls/Dark/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,dark,02_Buttons_Controls/Dark/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,dark,02_Buttons_Controls/Dark/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,dark,02_Buttons_Controls/Dark/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,dark,02_Buttons_Controls/Dark/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,dark,02_Buttons_Controls/Dark/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,dark,02_Buttons_Controls/Dark/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,dark,02_Buttons_Controls/Dark/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,dark,02_Buttons_Controls/Dark/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,dark,02_Buttons_Controls/Dark/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,dark,02_Buttons_Controls/Dark/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,dark,02_Buttons_Controls/Dark/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,dark,02_Buttons_Controls/Dark/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,dark,02_Buttons_Controls/Dark/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,dark,02_Buttons_Controls/Dark/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,dark,02_Buttons_Controls/Dark/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,dark,02_Buttons_Controls/Dark/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,dark,02_Buttons_Controls/Dark/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,dark,02_Buttons_Controls/Dark/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,dark,02_Buttons_Controls/Dark/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,dark,02_Buttons_Controls/Dark/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,dark,02_Buttons_Controls/Dark/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,dark,02_Buttons_Controls/Dark/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,dark,02_Buttons_Controls/Dark/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,dark,02_Buttons_Controls/Dark/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,dark,02_Buttons_Controls/Dark/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,dark,02_Buttons_Controls/Dark/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,dark,02_Buttons_Controls/Dark/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,dark,02_Buttons_Controls/Dark/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,dark,02_Buttons_Controls/Dark/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,dark,02_Buttons_Controls/Dark/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+button_L,gold,02_Buttons_Controls/Gold/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,gold,02_Buttons_Controls/Gold/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,gold,02_Buttons_Controls/Gold/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,gold,02_Buttons_Controls/Gold/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,gold,02_Buttons_Controls/Gold/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,gold,02_Buttons_Controls/Gold/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,gold,02_Buttons_Controls/Gold/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,gold,02_Buttons_Controls/Gold/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,gold,02_Buttons_Controls/Gold/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,gold,02_Buttons_Controls/Gold/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,gold,02_Buttons_Controls/Gold/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,gold,02_Buttons_Controls/Gold/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,gold,02_Buttons_Controls/Gold/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,gold,02_Buttons_Controls/Gold/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,gold,02_Buttons_Controls/Gold/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,gold,02_Buttons_Controls/Gold/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,gold,02_Buttons_Controls/Gold/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,gold,02_Buttons_Controls/Gold/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,gold,02_Buttons_Controls/Gold/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,gold,02_Buttons_Controls/Gold/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,gold,02_Buttons_Controls/Gold/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,gold,02_Buttons_Controls/Gold/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,gold,02_Buttons_Controls/Gold/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,gold,02_Buttons_Controls/Gold/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,gold,02_Buttons_Controls/Gold/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,gold,02_Buttons_Controls/Gold/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,gold,02_Buttons_Controls/Gold/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,gold,02_Buttons_Controls/Gold/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,gold,02_Buttons_Controls/Gold/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,gold,02_Buttons_Controls/Gold/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,gold,02_Buttons_Controls/Gold/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,gold,02_Buttons_Controls/Gold/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,gold,02_Buttons_Controls/Gold/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,gold,02_Buttons_Controls/Gold/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,gold,02_Buttons_Controls/Gold/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,gold,02_Buttons_Controls/Gold/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,gold,02_Buttons_Controls/Gold/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,gold,02_Buttons_Controls/Gold/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,gold,02_Buttons_Controls/Gold/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,gold,02_Buttons_Controls/Gold/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,gold,02_Buttons_Controls/Gold/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,gold,02_Buttons_Controls/Gold/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,gold,02_Buttons_Controls/Gold/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,gold,02_Buttons_Controls/Gold/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,gold,02_Buttons_Controls/Gold/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,gold,02_Buttons_Controls/Gold/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,gold,02_Buttons_Controls/Gold/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,gold,02_Buttons_Controls/Gold/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,gold,02_Buttons_Controls/Gold/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,gold,02_Buttons_Controls/Gold/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,gold,02_Buttons_Controls/Gold/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,gold,02_Buttons_Controls/Gold/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,gold,02_Buttons_Controls/Gold/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,gold,02_Buttons_Controls/Gold/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,gold,02_Buttons_Controls/Gold/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,gold,02_Buttons_Controls/Gold/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,gold,02_Buttons_Controls/Gold/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+button_L,pastel,02_Buttons_Controls/Pastel/button_L_normal.png,64,22,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,pastel,02_Buttons_Controls/Pastel/button_L_hover.png,64,22,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,pastel,02_Buttons_Controls/Pastel/button_L_pressed.png,64,22,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,pastel,02_Buttons_Controls/Pastel/button_L_disabled.png,64,22,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_L,pastel,02_Buttons_Controls/Pastel/button_L_focused.png,70,28,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,pastel,02_Buttons_Controls/Pastel/button_M_normal.png,48,18,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,pastel,02_Buttons_Controls/Pastel/button_M_hover.png,48,18,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,pastel,02_Buttons_Controls/Pastel/button_M_pressed.png,48,18,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,pastel,02_Buttons_Controls/Pastel/button_M_disabled.png,48,18,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_M,pastel,02_Buttons_Controls/Pastel/button_M_focused.png,54,24,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,pastel,02_Buttons_Controls/Pastel/button_S_normal.png,32,14,1,,"6,5,6,6",normal,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,pastel,02_Buttons_Controls/Pastel/button_S_hover.png,32,14,1,,"6,5,6,6",hover,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,pastel,02_Buttons_Controls/Pastel/button_S_pressed.png,32,14,1,,"6,5,6,6",pressed,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,pastel,02_Buttons_Controls/Pastel/button_S_disabled.png,32,14,1,,"6,5,6,6",disabled,,original,False,pressed: face 1px down; focused: +2px accent ring
+button_S,pastel,02_Buttons_Controls/Pastel/button_S_focused.png,38,20,1,,"9,8,9,9",focused,,original,False,pressed: face 1px down; focused: +2px accent ring
+icon_button,pastel,02_Buttons_Controls/Pastel/icon_button_normal_18x18.png,18,18,1,,"6,5,6,6",normal,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,pastel,02_Buttons_Controls/Pastel/icon_button_hover_18x18.png,18,18,1,,"6,5,6,6",hover,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,pastel,02_Buttons_Controls/Pastel/icon_button_pressed_18x18.png,18,18,1,,"6,5,6,6",pressed,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,pastel,02_Buttons_Controls/Pastel/icon_button_disabled_18x18.png,18,18,1,,"6,5,6,6",disabled,,original,False,put a 12x12 symbol from Icons/ in the centre
+icon_button,pastel,02_Buttons_Controls/Pastel/icon_button_focused_18x18.png,24,24,1,,"9,8,9,9",focused,,original,False,put a 12x12 symbol from Icons/ in the centre
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_off_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_off_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_off_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_on_normal_24x12.png,24,12,1,,,normal,,original,False,
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_on_hover_24x12.png,24,12,1,,,hover,,original,False,
+toggle,pastel,02_Buttons_Controls/Pastel/toggle_on_disabled_24x12.png,24,12,1,,,disabled,,original,False,
+toggle_anim,pastel,02_Buttons_Controls/Pastel/toggle_slide_off_to_on_24x12_4f.png,24,12,4,16,,,,original,False,play reversed for on->off
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_off_normal.png,12,12,1,,,normal,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_on_normal.png,12,12,1,,,normal,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_off_hover.png,12,12,1,,,hover,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_on_hover.png,12,12,1,,,hover,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_off_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_on_disabled.png,12,12,1,,,disabled,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_on_focused.png,18,18,1,,,focused,,original,False,
+checkbox,pastel,02_Buttons_Controls/Pastel/checkbox_partial_normal.png,12,12,1,,,normal,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_off_normal.png,12,12,1,,,normal,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_on_normal.png,12,12,1,,,normal,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_off_hover.png,12,12,1,,,hover,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_on_hover.png,12,12,1,,,hover,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_off_disabled.png,12,12,1,,,disabled,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_on_disabled.png,12,12,1,,,disabled,,original,False,
+radio,pastel,02_Buttons_Controls/Pastel/radio_on_focused.png,18,18,1,,,focused,,original,False,
+slider_track,pastel,02_Buttons_Controls/Pastel/slider_track_64x8.png,64,8,1,,"4,0,4,0",,,original,False,
+slider_fill,pastel,02_Buttons_Controls/Pastel/slider_fill_64x8.png,64,8,1,,"4,0,4,0",,,original,False,"draw over the track, width = value"
+slider_knob,pastel,02_Buttons_Controls/Pastel/slider_knob_normal_8x12.png,8,12,1,,,normal,,original,False,
+slider_knob,pastel,02_Buttons_Controls/Pastel/slider_knob_hover_8x12.png,8,12,1,,,hover,,original,False,
+slider_knob,pastel,02_Buttons_Controls/Pastel/slider_knob_pressed_8x12.png,8,12,1,,,pressed,,original,False,
+slider_knob,pastel,02_Buttons_Controls/Pastel/slider_knob_disabled_8x12.png,8,12,1,,,disabled,,original,False,
+dropdown,pastel,02_Buttons_Controls/Pastel/dropdown_normal_64x16.png,64,16,1,,"4,4,14,4",normal,,original,False,
+dropdown,pastel,02_Buttons_Controls/Pastel/dropdown_hover_64x16.png,64,16,1,,"4,4,14,4",hover,,original,False,
+dropdown,pastel,02_Buttons_Controls/Pastel/dropdown_pressed_64x16.png,64,16,1,,"4,4,14,4",pressed,,original,False,
+dropdown,pastel,02_Buttons_Controls/Pastel/dropdown_open_64x16.png,64,16,1,,"4,4,14,4",open,,original,False,
+dropdown,pastel,02_Buttons_Controls/Pastel/dropdown_disabled_64x16.png,64,16,1,,"4,4,14,4",disabled,,original,False,
+dropdown_list,pastel,02_Buttons_Controls/Pastel/dropdown_list_64x40.png,64,40,1,,"3,3,3,3",,,original,False,
+list_item,pastel,02_Buttons_Controls/Pastel/list_item_normal_60x12.png,60,12,1,,"4,0,4,0",normal,,original,True,"row strip, stretch horizontally"
+list_item,pastel,02_Buttons_Controls/Pastel/list_item_hover_60x12.png,60,12,1,,"4,0,4,0",hover,,original,True,"row strip, stretch horizontally"
+list_item,pastel,02_Buttons_Controls/Pastel/list_item_selected_60x12.png,60,12,1,,"4,0,4,0",selected,,original,True,"row strip, stretch horizontally"
+text_field,pastel,02_Buttons_Controls/Pastel/text_field_empty_80x16.png,80,16,1,,"4,4,4,4",empty,,original,False,
+text_field,pastel,02_Buttons_Controls/Pastel/text_field_focused_80x16.png,80,16,1,,"4,4,4,4",focused,,original,False,
+text_field,pastel,02_Buttons_Controls/Pastel/text_field_error_80x16.png,80,16,1,,"4,4,4,4",error,,original,False,
+text_field,pastel,02_Buttons_Controls/Pastel/text_field_disabled_80x16.png,80,16,1,,"4,4,4,4",disabled,,original,False,
+text_caret,pastel,02_Buttons_Controls/Pastel/text_caret_5x13_2f.png,5,13,2,2,,,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_minus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_minus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_minus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_minus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_plus_normal_12x14.png,12,14,1,,,normal,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_plus_hover_12x14.png,12,14,1,,,hover,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_plus_pressed_12x14.png,12,14,1,,,pressed,,original,False,
+stepper,pastel,02_Buttons_Controls/Pastel/stepper_plus_disabled_12x14.png,12,14,1,,,disabled,,original,False,
+stepper_value,pastel,02_Buttons_Controls/Pastel/stepper_value_box_24x14.png,24,14,1,,"3,3,3,3",,,original,False,
+keybind,pastel,02_Buttons_Controls/Pastel/keybind_normal_32x16.png,32,16,1,,"4,4,4,4",normal,,original,False,
+keybind,pastel,02_Buttons_Controls/Pastel/keybind_listening_32x16_2f.png,32,16,2,4,"4,4,4,4",listening,,original,False,
+keybind,pastel,02_Buttons_Controls/Pastel/keybind_conflict_32x16.png,32,16,1,,"4,4,4,4",conflict,,original,False,
+progress_frame,pastel,02_Buttons_Controls/Pastel/progress_frame_64x10.png,64,10,1,,"4,3,4,3",,,original,False,
+progress_fill,pastel,02_Buttons_Controls/Pastel/progress_fill_60x6.png,60,6,1,,"1,0,1,0",,,original,True,"stretch to the value; offset (2,2) in the frame"
+progress_example,pastel,02_Buttons_Controls/Pastel/examples/progress_0-100_64x10_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+ui_symbol,,02_Buttons_Controls/Icons/settings_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/home_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/back_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/play_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/pause_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/sound_on_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/sound_off_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/music_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/close_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/check_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/plus_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/minus_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/info_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/help_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/save_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/load_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/trophy_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/map_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/bag_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/list_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/refresh_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/lock_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/unlock_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/fullscreen_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/language_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/controller_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/keyboard_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/brightness_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/star_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/trash_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/cart_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/share_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/quit_12x12.png,12,12,1,,,,,original,False,white symbol for icon buttons (tint in engine or use recolors/)
+ui_symbol,,02_Buttons_Controls/Icons/recolors/settings_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/home_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/back_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/play_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/pause_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/sound_on_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/sound_off_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/music_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/close_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/check_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/plus_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/minus_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/info_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/help_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/save_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/load_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/trophy_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/map_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/bag_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/list_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/refresh_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/lock_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/unlock_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/fullscreen_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/language_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/controller_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/keyboard_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/brightness_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/star_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/trash_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/cart_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/share_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+ui_symbol,,02_Buttons_Controls/Icons/recolors/quit_dark_12x12.png,12,12,1,,,,,recolor,False,dark symbol for light themes
+logo_frame,royal,03_Screens/Title/logo_frame_royal_176x52.png,176,52,1,,"10,8,10,8",,,original,False,put your game logo inside
+logo_frame,wood,03_Screens/Title/logo_frame_wood_178x54.png,178,54,1,,"15,13,15,7",,,original,False,put your game logo inside
+logo_frame,stone,03_Screens/Title/logo_frame_stone_176x52.png,176,52,1,,"8,6,8,6",,,original,False,put your game logo inside
+press_start,,03_Screens/Title/press_start_blink_2f.png,65,16,2,2,,,,text,False,made with the regular font
+press_start,,03_Screens/Title/press_any_key_blink_2f.png,75,16,2,2,,,,text,False,
+banner_text,gameover,03_Screens/Banners/game_over.png,105,27,1,,,,,text,False,title font + gradient
+banner_text,victory,03_Screens/Banners/victory.png,86,27,1,,,,,text,False,title font + gradient
+banner_text,paused,03_Screens/Banners/paused.png,74,27,1,,,,,text,False,title font + gradient
+banner_text,complete,03_Screens/Banners/level_complete.png,165,27,1,,,,,text,False,title font + gradient
+banner_text,victory,03_Screens/Banners/you_win.png,81,27,1,,,,,text,False,title font + gradient
+banner_text,title,03_Screens/Banners/loading.png,82,27,1,,,,,text,False,title font + gradient
+victory_star,,03_Screens/Victory/star_slot_empty_24x24.png,24,24,1,,,empty,,original,False,
+victory_star,,03_Screens/Victory/star_full_24x24.png,24,24,1,,,full,,original,False,
+victory_star_pop,,03_Screens/Victory/star_pop_24x24_6f.png,24,24,6,12,,,,original,False,play once per earned star (0-3)
+save_slot,wood,03_Screens/Save_Load/save_slot_wood_128x36.png,128,36,1,,"8,8,8,8",,,original,False,
+save_slot,dark,03_Screens/Save_Load/save_slot_dark_128x36.png,128,36,1,,"8,8,8,8",,,original,False,
+save_slot_empty,,03_Screens/Save_Load/save_slot_empty_128x36.png,128,36,1,,"6,6,6,6",,,original,False,
+thumbnail_frame,,03_Screens/Save_Load/thumbnail_frame_44x28.png,44,28,1,,"3,3,3,3",,,original,False,40x24 screenshot fits inside
+save_icon,,03_Screens/Save_Load/icon_day_9x9.png,9,9,1,,,,,original,False,
+save_icon,,03_Screens/Save_Load/icon_time_9x9.png,9,9,1,,,,,original,False,
+save_icon,,03_Screens/Save_Load/icon_money_9x9.png,9,9,1,,,,,original,False,
+save_icon,,03_Screens/Save_Load/icon_location_9x9.png,9,9,1,,,,,original,False,
+save_icon,,03_Screens/Save_Load/icon_playtime_9x9.png,9,9,1,,,,,original,False,
+save_icon,,03_Screens/Save_Load/icon_level_9x9.png,9,9,1,,,,,original,False,
+credits_paper,,03_Screens/Credits/credits_paper_112x32.png,112,32,1,,"8,0,8,0",,,original,True,tiles vertically - scroll the texture
+credits_roller,,03_Screens/Credits/credits_roller_122x14.png,122,14,1,,"7,1,7,1",,,original,False,top and bottom of the scroll
+spinner,,03_Screens/Loading/spinner_dots_16x16_8f.png,16,16,8,12,,,,original,False,
+spinner,,03_Screens/Loading/spinner_ring_16x16_8f.png,16,16,8,12,,,,original,False,
+spinner,,03_Screens/Loading/spinner_gem_16x16_8f.png,16,16,8,12,,,,original,False,
+confirm_icon,,03_Screens/Confirm/icon_question_16x16.png,16,16,1,,,,,original,False,
+confirm_icon,,03_Screens/Confirm/icon_warning_16x16.png,16,16,1,,,,,original,False,
+confirm_icon,,03_Screens/Confirm/icon_danger_16x16.png,16,16,1,,,,,original,False,
+confirm_icon,,03_Screens/Confirm/icon_save_16x16.png,16,16,1,,,,,original,False,
+heart,classic,04_HUD/Hearts/classic/heart_full_16x16.png,16,16,1,,,full,,original,False,
+heart,classic,04_HUD/Hearts/classic/heart_half_16x16.png,16,16,1,,,half,,original,False,
+heart,classic,04_HUD/Hearts/classic/heart_empty_16x16.png,16,16,1,,,empty,,original,False,
+heart,classic,04_HUD/Hearts/classic/heart_container_16x16.png,16,16,1,,,container,,original,False,new heart container (upgrade)
+heart,classic,04_HUD/Hearts/classic/heart_q1_16x16.png,16,16,1,,,q1,,original,False,container pieces 1/4..3/4
+heart,classic,04_HUD/Hearts/classic/heart_q2_16x16.png,16,16,1,,,q2,,original,False,
+heart,classic,04_HUD/Hearts/classic/heart_q3_16x16.png,16,16,1,,,q3,,original,False,
+heart_beat,classic,04_HUD/Hearts/classic/heart_beat_16x16_4f.png,16,16,4,6,,,,original,False,low-health pulse
+heart_upgrade,classic,04_HUD/Hearts/classic/heart_max_up_16x16.png,16,16,1,,,,,original,False,
+heart,crystal,04_HUD/Hearts/crystal/heart_full_16x16.png,16,16,1,,,full,,original,False,
+heart,crystal,04_HUD/Hearts/crystal/heart_half_16x16.png,16,16,1,,,half,,original,False,
+heart,crystal,04_HUD/Hearts/crystal/heart_empty_16x16.png,16,16,1,,,empty,,original,False,
+heart,crystal,04_HUD/Hearts/crystal/heart_container_16x16.png,16,16,1,,,container,,original,False,new heart container (upgrade)
+heart,crystal,04_HUD/Hearts/crystal/heart_q1_16x16.png,16,16,1,,,q1,,original,False,container pieces 1/4..3/4
+heart,crystal,04_HUD/Hearts/crystal/heart_q2_16x16.png,16,16,1,,,q2,,original,False,
+heart,crystal,04_HUD/Hearts/crystal/heart_q3_16x16.png,16,16,1,,,q3,,original,False,
+heart_beat,crystal,04_HUD/Hearts/crystal/heart_beat_16x16_4f.png,16,16,4,6,,,,original,False,low-health pulse
+heart_upgrade,crystal,04_HUD/Hearts/crystal/heart_max_up_16x16.png,16,16,1,,,,,original,False,
+heart,golden,04_HUD/Hearts/golden/heart_full_16x16.png,16,16,1,,,full,,original,False,
+heart,golden,04_HUD/Hearts/golden/heart_half_16x16.png,16,16,1,,,half,,original,False,
+heart,golden,04_HUD/Hearts/golden/heart_empty_16x16.png,16,16,1,,,empty,,original,False,
+heart,golden,04_HUD/Hearts/golden/heart_container_16x16.png,16,16,1,,,container,,original,False,new heart container (upgrade)
+heart,golden,04_HUD/Hearts/golden/heart_q1_16x16.png,16,16,1,,,q1,,original,False,container pieces 1/4..3/4
+heart,golden,04_HUD/Hearts/golden/heart_q2_16x16.png,16,16,1,,,q2,,original,False,
+heart,golden,04_HUD/Hearts/golden/heart_q3_16x16.png,16,16,1,,,q3,,original,False,
+heart_beat,golden,04_HUD/Hearts/golden/heart_beat_16x16_4f.png,16,16,4,6,,,,original,False,low-health pulse
+heart_upgrade,golden,04_HUD/Hearts/golden/heart_max_up_16x16.png,16,16,1,,,,,original,False,
+heart,cute,04_HUD/Hearts/cute/heart_full_16x16.png,16,16,1,,,full,,original,False,
+heart,cute,04_HUD/Hearts/cute/heart_half_16x16.png,16,16,1,,,half,,original,False,
+heart,cute,04_HUD/Hearts/cute/heart_empty_16x16.png,16,16,1,,,empty,,original,False,
+heart,cute,04_HUD/Hearts/cute/heart_container_16x16.png,16,16,1,,,container,,original,False,new heart container (upgrade)
+heart,cute,04_HUD/Hearts/cute/heart_q1_16x16.png,16,16,1,,,q1,,original,False,container pieces 1/4..3/4
+heart,cute,04_HUD/Hearts/cute/heart_q2_16x16.png,16,16,1,,,q2,,original,False,
+heart,cute,04_HUD/Hearts/cute/heart_q3_16x16.png,16,16,1,,,q3,,original,False,
+heart_beat,cute,04_HUD/Hearts/cute/heart_beat_16x16_4f.png,16,16,4,6,,,,original,False,low-health pulse
+heart_upgrade,cute,04_HUD/Hearts/cute/heart_max_up_16x16.png,16,16,1,,,,,original,False,
+bar_frame,capsule,04_HUD/Bars/capsule/bar_frame_64.png,64,10,1,,"5,3,5,3",,,original,False,
+bar_fill,capsule,04_HUD/Bars/capsule/bar_fill_health.png,60,6,1,,"2,0,2,0",,,original,True,stretch to the value
+bar_example,capsule,04_HUD/Bars/capsule/examples/bar_health_0-100_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,capsule,04_HUD/Bars/capsule/bar_fill_stamina.png,60,6,1,,"2,0,2,0",,,original,True,stretch to the value
+bar_example,capsule,04_HUD/Bars/capsule/examples/bar_stamina_0-100_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,capsule,04_HUD/Bars/capsule/bar_fill_mana.png,60,6,1,,"2,0,2,0",,,original,True,stretch to the value
+bar_example,capsule,04_HUD/Bars/capsule/examples/bar_mana_0-100_5states.png,64,10,5,,,"0,25,50,75,100%",,example,False,
+bar_frame,segment,04_HUD/Bars/segment/bar_frame_64.png,64,9,1,,"1,1,1,1",,,original,False,
+bar_fill,segment,04_HUD/Bars/segment/bar_fill_health.png,5,7,1,,,,,original,True,stretch to the value
+bar_example,segment,04_HUD/Bars/segment/examples/bar_health_0-100_5states.png,64,9,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,segment,04_HUD/Bars/segment/bar_fill_stamina.png,5,7,1,,,,,original,True,stretch to the value
+bar_example,segment,04_HUD/Bars/segment/examples/bar_stamina_0-100_5states.png,64,9,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,segment,04_HUD/Bars/segment/bar_fill_mana.png,5,7,1,,,,,original,True,stretch to the value
+bar_example,segment,04_HUD/Bars/segment/examples/bar_mana_0-100_5states.png,64,9,5,,,"0,25,50,75,100%",,example,False,
+bar_frame,ornate,04_HUD/Bars/ornate/bar_frame_64.png,66,14,1,,"6,5,6,5",,,original,False,
+bar_fill,ornate,04_HUD/Bars/ornate/bar_fill_health.png,60,6,1,,"1,0,1,0",,,original,True,stretch to the value
+bar_example,ornate,04_HUD/Bars/ornate/examples/bar_health_0-100_5states.png,66,14,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,ornate,04_HUD/Bars/ornate/bar_fill_stamina.png,60,6,1,,"1,0,1,0",,,original,True,stretch to the value
+bar_example,ornate,04_HUD/Bars/ornate/examples/bar_stamina_0-100_5states.png,66,14,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,ornate,04_HUD/Bars/ornate/bar_fill_mana.png,60,6,1,,"1,0,1,0",,,original,True,stretch to the value
+bar_example,ornate,04_HUD/Bars/ornate/examples/bar_mana_0-100_5states.png,66,14,5,,,"0,25,50,75,100%",,example,False,
+bar_frame,slim,04_HUD/Bars/slim/bar_frame_64.png,64,6,1,,"2,2,2,2",,,original,False,
+bar_fill,slim,04_HUD/Bars/slim/bar_fill_health.png,60,2,1,,"0,0,0,0",,,original,True,stretch to the value
+bar_example,slim,04_HUD/Bars/slim/examples/bar_health_0-100_5states.png,64,6,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,slim,04_HUD/Bars/slim/bar_fill_stamina.png,60,2,1,,"0,0,0,0",,,original,True,stretch to the value
+bar_example,slim,04_HUD/Bars/slim/examples/bar_stamina_0-100_5states.png,64,6,5,,,"0,25,50,75,100%",,example,False,
+bar_fill,slim,04_HUD/Bars/slim/bar_fill_mana.png,60,2,1,,"0,0,0,0",,,original,True,stretch to the value
+bar_example,slim,04_HUD/Bars/slim/examples/bar_mana_0-100_5states.png,64,6,5,,,"0,25,50,75,100%",,example,False,
+bar_icon,,04_HUD/Bars/icon_health_10x10.png,10,10,1,,,,,original,False,
+bar_icon,,04_HUD/Bars/icon_stamina_10x10.png,10,10,1,,,,,original,False,
+bar_icon,,04_HUD/Bars/icon_mana_10x10.png,10,10,1,,,,,original,False,
+bar_icon,,04_HUD/Bars/icon_xp_10x10.png,10,10,1,,,,,original,False,
+coin,,04_HUD/Currency/coin_spin_12x12_6f.png,12,12,6,10,,,,original,False,
+gem,,04_HUD/Currency/gem_sparkle_12x12_4f.png,12,12,4,6,,,,original,False,
+key,,04_HUD/Currency/key_12x12.png,12,12,1,,,,,original,False,
+purse,,04_HUD/Currency/purse_14x14.png,14,14,1,,,,,original,False,
+counter_plate,round,04_HUD/Currency/counter_plate_round_48x14.png,48,14,1,,"7,4,7,4",,,original,False,
+counter_plate,wood,04_HUD/Currency/counter_plate_wood_48x14.png,48,14,1,,"5,4,5,4",,,original,False,
+hud_digits,gold,04_HUD/Digits/hud_digits_gold_8x11.png,8,11,1,,,,,original,False,"glyph order: 0123456789x,/:+-"
+hud_digits,white,04_HUD/Digits/hud_digits_white_8x11.png,8,11,1,,,,,recolor,False,"glyph order: 0123456789x,/:+-"
+hud_digits,red,04_HUD/Digits/hud_digits_red_8x11.png,8,11,1,,,,,recolor,False,"glyph order: 0123456789x,/:+-"
+hud_digits,green,04_HUD/Digits/hud_digits_green_8x11.png,8,11,1,,,,,recolor,False,"glyph order: 0123456789x,/:+-"
+clock,,04_HUD/Clock/clock_24x24_8f.png,24,24,8,,,,,original,False,frame = time of day / 8 (or rotate the hands)
+day_night_dial,,04_HUD/Clock/day_night_dial_34x22_8f.png,34,22,8,,,,,original,False,"morning, noon, afternoon, evening, dusk, night x3"
+weather,,04_HUD/Weather_Season/weather_sunny_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_partly_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_cloudy_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_rain_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_storm_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_snow_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_windy_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_fog_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_rainbow_14x14.png,14,14,1,,,,,original,False,
+weather,,04_HUD/Weather_Season/weather_heatwave_14x14.png,14,14,1,,,,,original,False,
+season,,04_HUD/Weather_Season/season_spring_16x16.png,16,16,1,,,,,original,False,
+season,,04_HUD/Weather_Season/season_summer_16x16.png,16,16,1,,,,,original,False,
+season,,04_HUD/Weather_Season/season_autumn_16x16.png,16,16,1,,,,,original,False,
+season,,04_HUD/Weather_Season/season_winter_16x16.png,16,16,1,,,,,original,False,
+minimap_frame,gold,04_HUD/Minimap/minimap_round_gold_66x66.png,66,66,1,,,,,original,False,map area: 52px circle / 56x56 square
+minimap_frame,dark,04_HUD/Minimap/minimap_round_dark_66x66.png,66,66,1,,,,,original,False,map area: 52px circle / 56x56 square
+minimap_frame,gold,04_HUD/Minimap/minimap_square_gold_66x66.png,66,66,1,,,,,original,False,map area: 52px circle / 56x56 square
+minimap_frame,dark,04_HUD/Minimap/minimap_square_dark_66x66.png,66,66,1,,,,,original,False,map area: 52px circle / 56x56 square
+map_marker,,04_HUD/Minimap/marker_player_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_npc_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_enemy_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_quest_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_quest_turnin_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_shop_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_chest_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_door_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_boss_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_party_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_waypoint_9x9.png,9,9,1,,,,"4,4",original,False,
+map_marker,,04_HUD/Minimap/marker_danger_9x9.png,9,9,1,,,,"4,4",original,False,
+compass,,04_HUD/Compass/compass_32x32_8f.png,32,32,8,,,,,original,False,"frame = heading (N, NE, E ...)"
+compass_strip,,04_HUD/Compass/compass_strip_96x12.png,96,12,1,,,,,original,True,tiles horizontally - scroll by heading
+quest_tracker,,04_HUD/Quest_Tracker/tracker_panel_80x40.png,80,40,1,,"6,4,4,4",,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_todo_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_done_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_failed_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_bullet_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_main_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_side_9x9.png,9,9,1,,,,,original,False,
+objective_icon,,04_HUD/Quest_Tracker/objective_timer_9x9.png,9,9,1,,,,,original,False,
+boss_frame,,04_HUD/Boss_Bar/boss_frame_160x18.png,160,18,1,,"16,6,16,4",,,original,False,
+boss_fill,,04_HUD/Boss_Bar/boss_fill_128x8.png,128,8,1,,"1,0,1,0",,,original,True,
+boss_chip,,04_HUD/Boss_Bar/boss_damage_chip_128x8.png,128,8,1,,"1,0,1,0",,,original,True,"draw behind the fill, shrink with delay"
+prompt_plate,,04_HUD/Interaction/prompt_plate_40x14.png,40,14,1,,"6,4,6,4",,,original,False,"key prompt (07_Input_Prompts) on the left, label on the right"
+prompt_pointer,,04_HUD/Interaction/prompt_pointer_9x9_pingpong_3f.png,9,9,3,6,,,,original,False,ping-pong
+action_icon,,04_HUD/Interaction/action_talk_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_open_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_pickup_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_use_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_read_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_sit_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_sleep_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_shop_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_inspect_12x12.png,12,12,1,,,,,original,False,
+action_icon,,04_HUD/Interaction/action_climb_12x12.png,12,12,1,,,,,original,False,
+toast,info,04_HUD/Notifications/toast_info_72x18.png,72,18,1,,"18,4,4,4",,,original,False,
+toast,success,04_HUD/Notifications/toast_success_72x18.png,72,18,1,,"18,4,4,4",,,original,False,
+toast,warning,04_HUD/Notifications/toast_warning_72x18.png,72,18,1,,"18,4,4,4",,,original,False,
+toast,error,04_HUD/Notifications/toast_error_72x18.png,72,18,1,,"18,4,4,4",,,original,False,
+toast,pickup,04_HUD/Notifications/toast_pickup_72x18.png,72,18,1,,"18,4,4,4",,,original,False,
+toast_anim,,04_HUD/Notifications/toast_slide_in_72x18_6f.png,72,18,6,15,,,,original,False,
+xp_bar,,04_HUD/XP/xp_bar_96x6.png,96,6,1,,"2,2,2,2",,,original,False,
+xp_fill,,04_HUD/XP/xp_fill_60x4.png,60,4,1,,"0,0,0,0",,,original,True,
+level_badge,,04_HUD/XP/level_badge_16x16.png,16,16,1,,,,,original,False,number with the small font
+levelup_flash,,04_HUD/XP/level_up_flash_24x24_6f.png,24,24,6,12,,,,original,False,
+hotbar_slot,wood,04_HUD/Hotbar/wood/slot_normal_18x18.png,18,18,1,,,normal,,original,False,
+hotbar_slot,wood,04_HUD/Hotbar/wood/slot_locked_18x18.png,18,18,1,,,locked,,original,False,
+hotbar_slot,wood,04_HUD/Hotbar/wood/slot_empty_18x18.png,18,18,1,,,empty,,original,False,
+hotbar_selected,wood,04_HUD/Hotbar/wood/slot_selected_18x18_4f.png,18,18,4,8,,,,original,False,
+hotbar_base,wood,04_HUD/Hotbar/wood/hotbar_base_40x24.png,40,24,1,,"4,4,4,4",,,original,False,stretch to N slots x 18 + 6
+hotbar_slot,dark,04_HUD/Hotbar/dark/slot_normal_18x18.png,18,18,1,,,normal,,original,False,
+hotbar_slot,dark,04_HUD/Hotbar/dark/slot_locked_18x18.png,18,18,1,,,locked,,original,False,
+hotbar_slot,dark,04_HUD/Hotbar/dark/slot_empty_18x18.png,18,18,1,,,empty,,original,False,
+hotbar_selected,dark,04_HUD/Hotbar/dark/slot_selected_18x18_4f.png,18,18,4,8,,,,original,False,
+hotbar_base,dark,04_HUD/Hotbar/dark/hotbar_base_40x24.png,40,24,1,,"4,4,4,4",,,original,False,stretch to N slots x 18 + 6
+textbox,wood,05_Dialogue/Wood/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,wood,05_Dialogue/Wood/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,wood,05_Dialogue/Wood/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,wood,05_Dialogue/Wood/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,wood,05_Dialogue/Wood/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,wood,05_Dialogue/Wood/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+textbox,stone,05_Dialogue/Stone/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,stone,05_Dialogue/Stone/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,stone,05_Dialogue/Stone/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,stone,05_Dialogue/Stone/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,stone,05_Dialogue/Stone/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,stone,05_Dialogue/Stone/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+textbox,parchment,05_Dialogue/Parchment/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,parchment,05_Dialogue/Parchment/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,parchment,05_Dialogue/Parchment/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,parchment,05_Dialogue/Parchment/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,parchment,05_Dialogue/Parchment/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,parchment,05_Dialogue/Parchment/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+textbox,dark,05_Dialogue/Dark/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,dark,05_Dialogue/Dark/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,dark,05_Dialogue/Dark/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,dark,05_Dialogue/Dark/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,dark,05_Dialogue/Dark/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,dark,05_Dialogue/Dark/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+textbox,gold,05_Dialogue/Gold/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,gold,05_Dialogue/Gold/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,gold,05_Dialogue/Gold/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,gold,05_Dialogue/Gold/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,gold,05_Dialogue/Gold/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,gold,05_Dialogue/Gold/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+textbox,pastel,05_Dialogue/Pastel/textbox_112x44.png,112,44,1,,"8,8,8,8",,,original,False,
+portrait_frame,pastel,05_Dialogue/Pastel/portrait_frame_54x54.png,54,54,1,,,,,original,False,"48x48 pack 7 portrait at (3,3); place left or right of the box"
+name_plate,pastel,05_Dialogue/Pastel/name_plate_56x14.png,56,14,1,,"6,4,6,4",,,original,False,
+choice_row,pastel,05_Dialogue/Pastel/choice_row_selected_96x12.png,96,12,1,,"2,1,2,1",selected,,original,True,
+choice_row,pastel,05_Dialogue/Pastel/choice_row_hover_96x12.png,96,12,1,,"2,1,2,1",hover,,original,True,
+choice_row,pastel,05_Dialogue/Pastel/choice_row_disabled_96x12.png,96,12,1,,"2,1,2,1",disabled,,original,True,
+choice_selector,,05_Dialogue/Choice/selector_arrow_12x10_pingpong_3f.png,12,10,3,6,,,,original,False,ping-pong
+choice_selector,,05_Dialogue/Choice/selector_hand_12x10_pingpong_3f.png,12,10,3,6,,,,original,False,ping-pong
+choice_selector,,05_Dialogue/Choice/selector_gem_12x10_pingpong_3f.png,12,10,3,6,,,,original,False,ping-pong
+continue_arrow,,05_Dialogue/Continue/continue_bounce_10x10_pingpong_3f.png,10,10,3,6,,,,original,False,ping-pong
+continue_arrow,,05_Dialogue/Continue/continue_blink_10x10_pingpong_3f.png,10,10,3,6,,,,original,False,ping-pong
+continue_arrow,,05_Dialogue/Continue/continue_page_10x10_pingpong_3f.png,10,10,3,6,,,,original,False,ping-pong
+typing_indicator,,05_Dialogue/Continue/typing_dots_16x8_4f.png,16,8,4,6,,,,original,False,
+speech_bubble,normal,05_Dialogue/Bubbles/bubble_normal.png,40,24,1,,"5,5,5,5",,,original,False,
+speech_bubble,whisper,05_Dialogue/Bubbles/bubble_whisper.png,40,24,1,,"5,5,5,5",,,original,False,
+speech_bubble,shout,05_Dialogue/Bubbles/bubble_shout.png,40,24,1,,"6,6,6,6",,,original,False,
+speech_bubble,thought,05_Dialogue/Bubbles/bubble_thought.png,40,24,1,,"8,8,8,8",,,original,False,
+bubble_tail,left,05_Dialogue/Bubbles/tail_left_12x10.png,12,10,1,,,,,original,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,right,05_Dialogue/Bubbles/tail_right_12x10.png,12,10,1,,,,,original,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,down,05_Dialogue/Bubbles/tail_down_12x10.png,12,10,1,,,,,original,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,thought,05_Dialogue/Bubbles/tail_thought_12x10.png,12,10,1,,,,,original,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,shout,05_Dialogue/Bubbles/tail_shout_12x10.png,12,10,1,,,,,original,True,open top: overlap the bubble's bottom edge by 1px
+speech_bubble,normal,05_Dialogue/Bubbles/recolors/bubble_normal_dark.png,40,24,1,,"5,5,5,5",,,recolor,False,
+speech_bubble,whisper,05_Dialogue/Bubbles/recolors/bubble_whisper_dark.png,40,24,1,,"5,5,5,5",,,recolor,False,
+speech_bubble,shout,05_Dialogue/Bubbles/recolors/bubble_shout_dark.png,40,24,1,,"6,6,6,6",,,recolor,False,
+speech_bubble,thought,05_Dialogue/Bubbles/recolors/bubble_thought_dark.png,40,24,1,,"8,8,8,8",,,recolor,False,
+bubble_tail,left,05_Dialogue/Bubbles/recolors/tail_left_dark_12x10.png,12,10,1,,,,,recolor,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,right,05_Dialogue/Bubbles/recolors/tail_right_dark_12x10.png,12,10,1,,,,,recolor,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,down,05_Dialogue/Bubbles/recolors/tail_down_dark_12x10.png,12,10,1,,,,,recolor,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,thought,05_Dialogue/Bubbles/recolors/tail_thought_dark_12x10.png,12,10,1,,,,,recolor,True,open top: overlap the bubble's bottom edge by 1px
+bubble_tail,shout,05_Dialogue/Bubbles/recolors/tail_shout_dark_12x10.png,12,10,1,,,,,recolor,True,open top: overlap the bubble's bottom edge by 1px
+emote,,05_Dialogue/Emotes/emote_exclaim_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_question_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_heart_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_anger_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_sweat_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_music_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_idea_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_zzz_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_dots_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_star_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_sad_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_happy_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_surprise_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+emote,,05_Dialogue/Emotes/emote_gloom_16x16_4f.png,16,16,4,6,,,"7,15",original,False,
+shop_tab,buy,06_Shop_Map_Quests/Shop/tab_buy_active_36x16.png,36,16,1,,"5,4,5,2",active,,original,True,active tab is open at the bottom (joins the panel)
+shop_tab,buy,06_Shop_Map_Quests/Shop/tab_buy_inactive_36x16.png,36,16,1,,"5,4,5,2",inactive,,original,False,active tab is open at the bottom (joins the panel)
+shop_tab,buy,06_Shop_Map_Quests/Shop/tab_buy_hover_36x16.png,36,16,1,,"5,4,5,2",hover,,original,False,active tab is open at the bottom (joins the panel)
+shop_tab,sell,06_Shop_Map_Quests/Shop/tab_sell_active_36x16.png,36,16,1,,"5,4,5,2",active,,original,True,active tab is open at the bottom (joins the panel)
+shop_tab,sell,06_Shop_Map_Quests/Shop/tab_sell_inactive_36x16.png,36,16,1,,"5,4,5,2",inactive,,original,False,active tab is open at the bottom (joins the panel)
+shop_tab,sell,06_Shop_Map_Quests/Shop/tab_sell_hover_36x16.png,36,16,1,,"5,4,5,2",hover,,original,False,active tab is open at the bottom (joins the panel)
+price_tag,coin,06_Shop_Map_Quests/Shop/price_tag_coin.png,34,12,1,,"10,3,3,3",,,original,False,
+price_tag,gem,06_Shop_Map_Quests/Shop/price_tag_gem.png,34,12,1,,"9,3,3,3",,,original,False,
+price_tag,discount,06_Shop_Map_Quests/Shop/price_tag_discount.png,36,16,1,,"8,4,4,4",,,original,False,
+price_tag,unaffordable,06_Shop_Map_Quests/Shop/price_tag_unaffordable.png,34,12,1,,"10,3,3,3",,,original,False,
+quantity_box,,06_Shop_Map_Quests/Shop/quantity_box_28x14.png,28,14,1,,"3,3,3,3",,,original,False,
+quantity_arrow,,06_Shop_Map_Quests/Shop/quantity_arrow_normal_10x14.png,10,14,1,,,normal,,original,False,points right; mirror for the left arrow
+quantity_arrow,,06_Shop_Map_Quests/Shop/quantity_arrow_hover_10x14.png,10,14,1,,,hover,,original,False,points right; mirror for the left arrow
+quantity_arrow,,06_Shop_Map_Quests/Shop/quantity_arrow_pressed_10x14.png,10,14,1,,,pressed,,original,False,points right; mirror for the left arrow
+quantity_arrow,,06_Shop_Map_Quests/Shop/quantity_arrow_disabled_10x14.png,10,14,1,,,disabled,,original,False,points right; mirror for the left arrow
+sold_out,,06_Shop_Map_Quests/Shop/sold_out_stamp_50x20.png,50,20,1,,,,,original,False,
+shop_item_row,,06_Shop_Map_Quests/Shop/item_row_normal_120x20.png,120,20,1,,"20,4,4,4",normal,,original,False,"16x16 pack 10 icon at (2,2)"
+shop_item_row,,06_Shop_Map_Quests/Shop/item_row_hover_120x20.png,120,20,1,,"20,4,4,4",hover,,original,False,"16x16 pack 10 icon at (2,2)"
+shop_item_row,,06_Shop_Map_Quests/Shop/item_row_selected_120x20.png,120,20,1,,"20,4,4,4",selected,,original,False,"16x16 pack 10 icon at (2,2)"
+shop_item_row,,06_Shop_Map_Quests/Shop/item_row_unaffordable_120x20.png,120,20,1,,"20,4,4,4",unaffordable,,original,False,"16x16 pack 10 icon at (2,2)"
+shop_icon,,06_Shop_Map_Quests/Shop/icon_buy_bag.png,10,11,1,,,,,original,False,
+shop_icon,,06_Shop_Map_Quests/Shop/icon_sell_hand.png,10,11,1,,,,,original,False,
+world_map_frame,parchment,06_Shop_Map_Quests/Map/world_map_frame_130x98.png,130,98,1,,"11,7,11,7",,,original,False,
+compass_rose,,06_Shop_Map_Quests/Map/compass_rose_32x32.png,32,32,1,,,,,original,False,
+scale_bar,,06_Shop_Map_Quests/Map/scale_bar_48x8.png,48,8,1,,,,,original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_town_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_dungeon_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_shop_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_quest_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_boss_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_home_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_fast_travel_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_inn_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_port_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_farm_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_tower_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_flag_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_treasure_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_pin_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_camp_16x16.png,16,16,1,,,,"7,13",original,False,
+map_pin,,06_Shop_Map_Quests/Map/Pins/pin_castle_16x16.png,16,16,1,,,,"7,13",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_n_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_ne_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_e_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_se_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_s_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_sw_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_w_16x16.png,16,16,1,,,,"7,7",original,False,
+player_arrow,,06_Shop_Map_Quests/Map/Pins/player_arrow_nw_16x16.png,16,16,1,,,,"7,7",original,False,
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_full_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_edge_n_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_edge_e_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_edge_s_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_edge_w_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_outer_ne_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_outer_nw_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_outer_se_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_outer_sw_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_inner_ne_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_inner_nw_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_inner_se_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+fog_tile,,06_Shop_Map_Quests/Map/Fog/fog_inner_sw_16x16.png,16,16,1,,,,,original,True,fog-of-war autotile piece (tileable)
+quest_card,main,06_Shop_Map_Quests/Quests/quest_card_main_96x32.png,96,32,1,,"6,11,6,4",,,original,False,
+quest_card,side,06_Shop_Map_Quests/Quests/quest_card_side_96x32.png,96,32,1,,"6,11,6,4",,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_new_12x12.png,12,12,1,,,,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_active_12x12.png,12,12,1,,,,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_complete_12x12.png,12,12,1,,,,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_failed_12x12.png,12,12,1,,,,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_tracked_12x12.png,12,12,1,,,,,original,False,
+quest_state,,06_Shop_Map_Quests/Quests/quest_reward_12x12.png,12,12,1,,,,,original,False,
+journal_page,left,06_Shop_Map_Quests/Journal/journal_page_left_74x98.png,74,98,1,,"7,7,5,7",,,original,False,
+journal_page,right,06_Shop_Map_Quests/Journal/journal_page_right_74x98.png,74,98,1,,"5,7,7,7",,,original,False,
+bookmark,,06_Shop_Map_Quests/Journal/bookmark_8x26_pingpong_3f.png,8,26,3,4,,,,original,False,ping-pong
+page_curl,,06_Shop_Map_Quests/Journal/page_curl_16x16.png,16,16,1,,,,,original,False,
+achievement_popup,,06_Shop_Map_Quests/Achievements/achievement_popup_104x26.png,104,26,1,,"26,5,5,5",,,original,False,"16x16 badge at (5,5)"
+achievement_shine,,06_Shop_Map_Quests/Achievements/achievement_shine_104x26_6f.png,104,26,6,15,,,,original,False,
+achievement_badges,,06_Shop_Map_Quests/Achievements/badges_16x16_sheet.png,16,16,1,,,,,original,False,"first_steps, sword, shield, coins, gem, fish, crop, chest, key, map, potion, star, crown, heart, book, hammer, flower, moon, sun, snowflake, boat, bow, gift, trophy"
+key_letters,,07_Input_Prompts/Keyboard/keys_A-Z_normal_16x16.png,16,16,1,,,normal,,original,False,A..Z left to right
+key_digits,,07_Input_Prompts/Keyboard/keys_0-9_normal_16x16.png,16,16,1,,,normal,,original,False,
+key_arrows,,07_Input_Prompts/Keyboard/keys_arrows_normal_16x16.png,16,16,1,,,normal,,original,False,"up, down, left, right"
+key_function,,07_Input_Prompts/Keyboard/keys_F1-F12_normal_16x16.png,16,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_space_normal.png,48,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_enter_normal.png,28,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_shift_normal.png,32,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_tab_normal.png,26,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_esc_normal.png,18,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_ctrl_normal.png,22,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_alt_normal.png,18,16,1,,,normal,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_backspace_normal.png,32,16,1,,,normal,,original,False,
+key_letters,,07_Input_Prompts/Keyboard/keys_A-Z_pressed_16x16.png,16,16,1,,,pressed,,original,False,A..Z left to right
+key_digits,,07_Input_Prompts/Keyboard/keys_0-9_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+key_arrows,,07_Input_Prompts/Keyboard/keys_arrows_pressed_16x16.png,16,16,1,,,pressed,,original,False,"up, down, left, right"
+key_function,,07_Input_Prompts/Keyboard/keys_F1-F12_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_space_pressed.png,48,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_enter_pressed.png,28,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_shift_pressed.png,32,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_tab_pressed.png,26,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_esc_pressed.png,18,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_ctrl_pressed.png,22,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_alt_pressed.png,18,16,1,,,pressed,,original,False,
+key_wide,,07_Input_Prompts/Keyboard/key_backspace_pressed.png,32,16,1,,,pressed,,original,False,
+mouse,,07_Input_Prompts/Mouse/mouse_16x16.png,16,16,1,,,,,original,False,"idle, left, right, middle, scroll_up, scroll_down, move"
+pad_face,,07_Input_Prompts/Gamepad/face_ABXY_normal_16x16.png,16,16,1,,,normal,,original,False,"generic letter buttons A, B, X, Y"
+pad_face_position,,07_Input_Prompts/Gamepad/face_position_NESW_normal_16x16.png,16,16,1,,,normal,,original,False,"layout-neutral: highlighted dot = north, east, south, west button"
+pad_shoulder,,07_Input_Prompts/Gamepad/bumper_L_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/bumper_R_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/trigger_LT_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/trigger_RT_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_menu,,07_Input_Prompts/Gamepad/menu_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_menu,,07_Input_Prompts/Gamepad/view_normal_16x16.png,16,16,1,,,normal,,original,False,
+pad_face,,07_Input_Prompts/Gamepad/face_ABXY_pressed_16x16.png,16,16,1,,,pressed,,original,False,"generic letter buttons A, B, X, Y"
+pad_face_position,,07_Input_Prompts/Gamepad/face_position_NESW_pressed_16x16.png,16,16,1,,,pressed,,original,False,"layout-neutral: highlighted dot = north, east, south, west button"
+pad_shoulder,,07_Input_Prompts/Gamepad/bumper_L_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/bumper_R_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/trigger_LT_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+pad_shoulder,,07_Input_Prompts/Gamepad/trigger_RT_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+pad_menu,,07_Input_Prompts/Gamepad/menu_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+pad_menu,,07_Input_Prompts/Gamepad/view_pressed_16x16.png,16,16,1,,,pressed,,original,False,
+dpad,,07_Input_Prompts/Gamepad/dpad_16x16.png,16,16,1,,,,,original,False,"neutral, up, down, left, right"
+stick,L,07_Input_Prompts/Gamepad/stick_L_16x16.png,16,16,1,,,,,original,False,"neutral, up, down, left, right, click"
+stick,R,07_Input_Prompts/Gamepad/stick_R_16x16.png,16,16,1,,,,,original,False,
+cursor,,08_Cursors/cursor_pointer_16x16.png,16,16,1,,,,"1,1",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_pointer_click_16x16.png,16,16,1,,,,"1,1",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_hand_point_16x16.png,16,16,1,,,,"5,1",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_hand_open_16x16.png,16,16,1,,,,"7,6",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_grab_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_attack_16x16.png,16,16,1,,,,"14,1",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_talk_16x16.png,16,16,1,,,,"3,3",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_look_16x16.png,16,16,1,,,,"6,5",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_forbidden_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_crosshair_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_build_16x16.png,16,16,1,,,,"3,3",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_harvest_16x16.png,16,16,1,,,,"3,6",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_dig_16x16.png,16,16,1,,,,"4,13",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_text_16x16.png,16,16,1,,,,"7,8",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_resize_h_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_resize_v_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_move_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_chop_16x16.png,16,16,1,,,,"12,3",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_water_16x16.png,16,16,1,,,,"13,4",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_fish_16x16.png,16,16,1,,,,"14,13",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_pickup_16x16.png,16,16,1,,,,"7,7",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_place_16x16.png,16,16,1,,,,"1,1",original,False,anchor = hotspot
+cursor,,08_Cursors/cursor_wait_16x16_8f.png,16,16,8,8,,,"7,7",original,False,
+font_glyphs,small,09_Fonts/Small/small_glyphs_base_7x13.png,7,13,1,,,,,original,False,"ASCII 33-126 + ß, 16 per row, baseline at y=9"
+font_glyphs_accents,small,09_Fonts/Small/small_glyphs_accents_7x13.png,7,13,1,,,,,derived,False,accented letters = base glyph + accent mark
+font_glyphs,regular,09_Fonts/Regular/regular_glyphs_base_7x16.png,7,16,1,,,,,original,False,"ASCII 33-126 + ß, 16 per row, baseline at y=12"
+font_glyphs_accents,regular,09_Fonts/Regular/regular_glyphs_accents_7x16.png,7,16,1,,,,,derived,False,accented letters = base glyph + accent mark
+font_glyphs,title,09_Fonts/Title/title_glyphs_base_12x25.png,12,25,1,,,,,original,False,"ASCII 33-126 + ß, 16 per row, baseline at y=19"
+font_glyphs_accents,title,09_Fonts/Title/title_glyphs_accents_12x25.png,12,25,1,,,,,derived,False,accented letters = base glyph + accent mark
+transition,fade,10_Transitions_Extras/Transitions/transition_fade_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,circle,10_Transitions_Extras/Transitions/transition_circle_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,diamond,10_Transitions_Extras/Transitions/transition_diamond_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,curtain,10_Transitions_Extras/Transitions/transition_curtain_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,blinds,10_Transitions_Extras/Transitions/transition_blinds_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,blocks,10_Transitions_Extras/Transitions/transition_blocks_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,slash,10_Transitions_Extras/Transitions/transition_slash_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+transition,flower,10_Transitions_Extras/Transitions/transition_flower_320x180_8f.png,320,180,8,16,,,,original,True,full-screen cover-in; play reversed to reveal
+firework,peony,10_Transitions_Extras/Fireworks/firework_peony_32x32_8f.png,32,32,8,12,,,,original,False,
+firework,peony,10_Transitions_Extras/Fireworks/recolors/firework_peony_red_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,peony,10_Transitions_Extras/Fireworks/recolors/firework_peony_blue_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,peony,10_Transitions_Extras/Fireworks/recolors/firework_peony_green_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,ring,10_Transitions_Extras/Fireworks/firework_ring_32x32_8f.png,32,32,8,12,,,,original,False,
+firework,ring,10_Transitions_Extras/Fireworks/recolors/firework_ring_red_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,ring,10_Transitions_Extras/Fireworks/recolors/firework_ring_blue_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,ring,10_Transitions_Extras/Fireworks/recolors/firework_ring_green_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,willow,10_Transitions_Extras/Fireworks/firework_willow_32x32_8f.png,32,32,8,12,,,,original,False,
+firework,willow,10_Transitions_Extras/Fireworks/recolors/firework_willow_red_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,willow,10_Transitions_Extras/Fireworks/recolors/firework_willow_blue_32x32_8f.png,32,32,8,12,,,,recolor,False,
+firework,willow,10_Transitions_Extras/Fireworks/recolors/firework_willow_green_32x32_8f.png,32,32,8,12,,,,recolor,False,
+confetti,,10_Transitions_Extras/Confetti/confetti_64x64_8f.png,64,64,8,12,,,,original,True,tiles in all directions - loop over the screen
+rating_star,empty,10_Transitions_Extras/Stars_Marks/rating_star_empty_10x10.png,10,10,1,,,,,original,False,
+rating_star,half,10_Transitions_Extras/Stars_Marks/rating_star_half_10x10.png,10,10,1,,,,,original,False,
+rating_star,full,10_Transitions_Extras/Stars_Marks/rating_star_full_10x10.png,10,10,1,,,,,original,False,
+mark,check,10_Transitions_Extras/Stars_Marks/check_10x10.png,10,10,1,,,,,original,False,
+mark,cross,10_Transitions_Extras/Stars_Marks/cross_10x10.png,10,10,1,,,,,original,False,
+rating_star,empty,10_Transitions_Extras/Stars_Marks/rating_star_empty_14x14.png,14,14,1,,,,,original,False,
+rating_star,half,10_Transitions_Extras/Stars_Marks/rating_star_half_14x14.png,14,14,1,,,,,original,False,
+rating_star,full,10_Transitions_Extras/Stars_Marks/rating_star_full_14x14.png,14,14,1,,,,,original,False,
+mark,check,10_Transitions_Extras/Stars_Marks/check_14x14.png,14,14,1,,,,,original,False,
+mark,cross,10_Transitions_Extras/Stars_Marks/cross_12x12.png,12,12,1,,,,,original,False,
+rating_star,empty,10_Transitions_Extras/Stars_Marks/rating_star_empty_18x18.png,18,18,1,,,,,original,False,
+rating_star,half,10_Transitions_Extras/Stars_Marks/rating_star_half_18x18.png,18,18,1,,,,,original,False,
+rating_star,full,10_Transitions_Extras/Stars_Marks/rating_star_full_18x18.png,18,18,1,,,,,original,False,
+mark,check,10_Transitions_Extras/Stars_Marks/check_16x16.png,16,16,1,,,,,original,False,
+mark,cross,10_Transitions_Extras/Stars_Marks/cross_16x16.png,16,16,1,,,,,original,False,
+ui_arrow,right,10_Transitions_Extras/Arrows/arrow_right_12x12_pingpong_3f.png,12,12,3,6,,,,original,False,ping-pong; mirror for left
+ui_arrow,down,10_Transitions_Extras/Arrows/arrow_down_12x12_pingpong_3f.png,12,12,3,6,,,,original,False,ping-pong; mirror for left
+ui_arrow,up,10_Transitions_Extras/Arrows/arrow_up_12x12_pingpong_3f.png,12,12,3,6,,,,original,False,ping-pong; mirror for left
+ui_arrow,undo,10_Transitions_Extras/Arrows/arrow_undo_12x12.png,12,12,1,,,,,original,False,
+ui_arrow,double,10_Transitions_Extras/Arrows/arrow_double_12x12_pingpong_3f.png,12,12,3,6,,,,original,False,ping-pong; mirror for left
+badge,new,10_Transitions_Extras/Badges/badge_new.png,26,15,1,,,,,original,False,
+badge,sale,10_Transitions_Extras/Badges/badge_sale.png,27,15,1,,,,,original,False,
+badge,hot,10_Transitions_Extras/Badges/badge_hot.png,21,13,1,,,,,original,False,
+badge,max,10_Transitions_Extras/Badges/badge_max.png,25,15,1,,,,,original,False,
+badge,lv,10_Transitions_Extras/Badges/badge_lv.png,19,15,1,,,,,original,False,
+badge,free,10_Transitions_Extras/Badges/badge_free.png,27,15,1,,,,,original,False,
+alert_dot,,10_Transitions_Extras/Badges/alert_dot_10x10.png,10,10,1,,,,,original,False,
+count_dot,,10_Transitions_Extras/Badges/count_dots_1-9_10x10.png,10,10,1,,,,,text,False,
+flourish,vine,10_Transitions_Extras/Flourishes/flourish_vine_64x9.png,64,9,1,,,,,original,False,
+flourish,swirl,10_Transitions_Extras/Flourishes/flourish_swirl_64x9.png,64,9,1,,,,,original,False,
+flourish,stars,10_Transitions_Extras/Flourishes/flourish_stars_64x9.png,64,9,1,,,,,original,False,
+flourish,hearts,10_Transitions_Extras/Flourishes/flourish_hearts_64x9.png,64,9,1,,,,,original,False,
+flourish,chain,10_Transitions_Extras/Flourishes/flourish_chain_64x9.png,64,9,1,,,,,original,False,
+sparkle,,10_Transitions_Extras/FX/sparkle_12x12_4f.png,12,12,4,10,,,,original,False,
+glow_ring,,10_Transitions_Extras/FX/glow_ring_24x24_6f.png,24,24,6,12,,,,original,False,

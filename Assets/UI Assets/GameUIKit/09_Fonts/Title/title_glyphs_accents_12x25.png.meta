@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 257afd414b72c934fa4012cb5552d52d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4839017240163749362
+    second: title_glyphs_accents_12x25_0
+  - first:
+      213: 6539821918354736026
+    second: title_glyphs_accents_12x25_1
+  - first:
+      213: 1264690934142510002
+    second: title_glyphs_accents_12x25_2
+  - first:
+      213: 1094508382724465692
+    second: title_glyphs_accents_12x25_3
+  - first:
+      213: 9013076733541969439
+    second: title_glyphs_accents_12x25_4
+  - first:
+      213: 8642378437212433060
+    second: title_glyphs_accents_12x25_5
+  - first:
+      213: 2352675447983172845
+    second: title_glyphs_accents_12x25_6
+  - first:
+      213: -5005495217247557224
+    second: title_glyphs_accents_12x25_7
+  - first:
+      213: 7601866278402696537
+    second: title_glyphs_accents_12x25_8
+  - first:
+      213: 6707847436675871210
+    second: title_glyphs_accents_12x25_9
+  - first:
+      213: -3799803065219168338
+    second: title_glyphs_accents_12x25_10
+  - first:
+      213: 3466514566292172751
+    second: title_glyphs_accents_12x25_11
+  - first:
+      213: 7438204305959901273
+    second: title_glyphs_accents_12x25_12
+  - first:
+      213: -7982800661417520729
+    second: title_glyphs_accents_12x25_13
+  - first:
+      213: 6189084995052122860
+    second: title_glyphs_accents_12x25_14
+  - first:
+      213: -6788406106589391030
+    second: title_glyphs_accents_12x25_15
+  - first:
+      213: 2307782910035848818
+    second: title_glyphs_accents_12x25_16
+  - first:
+      213: -4427954456332183960
+    second: title_glyphs_accents_12x25_17
+  - first:
+      213: -7341006163234795511
+    second: title_glyphs_accents_12x25_18
+  - first:
+      213: 2814748615328578085
+    second: title_glyphs_accents_12x25_19
+  - first:
+      213: 2059691890649709305
+    second: title_glyphs_accents_12x25_20
+  - first:
+      213: 5067143585651472386
+    second: title_glyphs_accents_12x25_21
+  - first:
+      213: 3751013075850556757
+    second: title_glyphs_accents_12x25_22
+  - first:
+      213: -3096725194112560889
+    second: title_glyphs_accents_12x25_23
+  - first:
+      213: -3631002996037543598
+    second: title_glyphs_accents_12x25_24
+  - first:
+      213: 2824664714463074462
+    second: title_glyphs_accents_12x25_25
+  - first:
+      213: -2893716669330187454
+    second: title_glyphs_accents_12x25_26
+  - first:
+      213: 5115269692104399096
+    second: title_glyphs_accents_12x25_27
+  - first:
+      213: -4006665730426457451
+    second: title_glyphs_accents_12x25_28
+  - first:
+      213: -5203206958974662632
+    second: title_glyphs_accents_12x25_29
+  - first:
+      213: -4165341611277807800
+    second: title_glyphs_accents_12x25_30
+  - first:
+      213: -6926219365989778970
+    second: title_glyphs_accents_12x25_31
+  - first:
+      213: 6109250028359378060
+    second: title_glyphs_accents_12x25_32
+  - first:
+      213: -5609744317684351865
+    second: title_glyphs_accents_12x25_33
+  - first:
+      213: 388342155603981093
+    second: title_glyphs_accents_12x25_34
+  - first:
+      213: 9208791169430066621
+    second: title_glyphs_accents_12x25_35
+  - first:
+      213: -7310560860627939680
+    second: title_glyphs_accents_12x25_36
+  - first:
+      213: -1767361052570069571
+    second: title_glyphs_accents_12x25_37
+  - first:
+      213: 4538251078548957447
+    second: title_glyphs_accents_12x25_38
+  - first:
+      213: -7315440159919974941
+    second: title_glyphs_accents_12x25_39
+  - first:
+      213: 4447996546675167360
+    second: title_glyphs_accents_12x25_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd83fdaa84a72340800000000000000
+      internalID: 4839017240163749362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9309d1a26d12ca50800000000000000
+      internalID: 6539821918354736026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a83834b51d8110800000000000000
+      internalID: 1264690934142510002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14aafb3399703f00800000000000000
+      internalID: 1094508382724465692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e6b1c2981e41d70800000000000000
+      internalID: 9013076733541969439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaea8c3665efe770800000000000000
+      internalID: 8642378437212433060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece1dcdad166a020800000000000000
+      internalID: 2352675447983172845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ea03ce98e88ab0800000000000000
+      internalID: -5005495217247557224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a6329a114f7960800000000000000
+      internalID: 7601866278402696537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 55
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1749634bf071d50800000000000000
+      internalID: 6707847436675871210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7cb219e33644bc0800000000000000
+      internalID: -3799803065219168338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfef84b1a88b1030800000000000000
+      internalID: 3466514566292172751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958558f286fc93760800000000000000
+      internalID: 7438204305959901273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 55
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a19477d715673190800000000000000
+      internalID: -7982800661417520729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 55
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce238c6030c04e550800000000000000
+      internalID: 6189084995052122860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4795a1dc9cbac1a0800000000000000
+      internalID: -6788406106589391030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 30
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e676b5454e60020800000000000000
+      internalID: 2307782910035848818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86656bcd1eebc82c0800000000000000
+      internalID: -4427954456332183960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 30
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900df62f9c18f1a90800000000000000
+      internalID: -7341006163234795511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52abea4d3feff0720800000000000000
+      internalID: 2814748615328578085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fabde0acde759c10800000000000000
+      internalID: 2059691890649709305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208b7a88e3c125640800000000000000
+      internalID: 5067143585651472386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555faedc4864e0430800000000000000
+      internalID: 3751013075850556757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011be5d7d83605d0800000000000000
+      internalID: -3096725194112560889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2599dc253061c9dc0800000000000000
+      internalID: -3631002996037543598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d6239799333720800000000000000
+      internalID: 2824664714463074462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b92f3550477d7d0800000000000000
+      internalID: -2893716669330187454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f85430eea61df640800000000000000
+      internalID: 5115269692104399096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59233341fb67568c0800000000000000
+      internalID: -4006665730426457451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818897da6de7ac7b0800000000000000
+      internalID: -5203206958974662632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f02ab9fdbb136c0800000000000000
+      internalID: -4165341611277807800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97fbdee2021ef90800000000000000
+      internalID: -6926219365989778970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84e768588a68c450800000000000000
+      internalID: 6109250028359378060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c78a7c34f2622b0800000000000000
+      internalID: -5609744317684351865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b51c022ba36500800000000000000
+      internalID: 388342155603981093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db512a047c23ccf70800000000000000
+      internalID: 9208791169430066621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aec56951abab8a90800000000000000
+      internalID: -7310560860627939680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db553bf8c721977e0800000000000000
+      internalID: -1767361052570069571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709a17eaf4b1bfe30800000000000000
+      internalID: 4538251078548957447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5d754fee55a7a90800000000000000
+      internalID: -7315440159919974941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title_glyphs_accents_12x25_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080dcbeea457abd30800000000000000
+      internalID: 4447996546675167360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      title_glyphs_accents_12x25_0: 4839017240163749362
+      title_glyphs_accents_12x25_1: 6539821918354736026
+      title_glyphs_accents_12x25_10: -3799803065219168338
+      title_glyphs_accents_12x25_11: 3466514566292172751
+      title_glyphs_accents_12x25_12: 7438204305959901273
+      title_glyphs_accents_12x25_13: -7982800661417520729
+      title_glyphs_accents_12x25_14: 6189084995052122860
+      title_glyphs_accents_12x25_15: -6788406106589391030
+      title_glyphs_accents_12x25_16: 2307782910035848818
+      title_glyphs_accents_12x25_17: -4427954456332183960
+      title_glyphs_accents_12x25_18: -7341006163234795511
+      title_glyphs_accents_12x25_19: 2814748615328578085
+      title_glyphs_accents_12x25_2: 1264690934142510002
+      title_glyphs_accents_12x25_20: 2059691890649709305
+      title_glyphs_accents_12x25_21: 5067143585651472386
+      title_glyphs_accents_12x25_22: 3751013075850556757
+      title_glyphs_accents_12x25_23: -3096725194112560889
+      title_glyphs_accents_12x25_24: -3631002996037543598
+      title_glyphs_accents_12x25_25: 2824664714463074462
+      title_glyphs_accents_12x25_26: -2893716669330187454
+      title_glyphs_accents_12x25_27: 5115269692104399096
+      title_glyphs_accents_12x25_28: -4006665730426457451
+      title_glyphs_accents_12x25_29: -5203206958974662632
+      title_glyphs_accents_12x25_3: 1094508382724465692
+      title_glyphs_accents_12x25_30: -4165341611277807800
+      title_glyphs_accents_12x25_31: -6926219365989778970
+      title_glyphs_accents_12x25_32: 6109250028359378060
+      title_glyphs_accents_12x25_33: -5609744317684351865
+      title_glyphs_accents_12x25_34: 388342155603981093
+      title_glyphs_accents_12x25_35: 9208791169430066621
+      title_glyphs_accents_12x25_36: -7310560860627939680
+      title_glyphs_accents_12x25_37: -1767361052570069571
+      title_glyphs_accents_12x25_38: 4538251078548957447
+      title_glyphs_accents_12x25_39: -7315440159919974941
+      title_glyphs_accents_12x25_4: 9013076733541969439
+      title_glyphs_accents_12x25_40: 4447996546675167360
+      title_glyphs_accents_12x25_5: 8642378437212433060
+      title_glyphs_accents_12x25_6: 2352675447983172845
+      title_glyphs_accents_12x25_7: -5005495217247557224
+      title_glyphs_accents_12x25_8: 7601866278402696537
+      title_glyphs_accents_12x25_9: 6707847436675871210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

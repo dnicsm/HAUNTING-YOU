@@ -1,0 +1,5707 @@
+fileFormatVersion: 2
+guid: f85218a2bbb5c984eaae85c2956898d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2848273540135342004
+    second: transition_diamond_320x180_8f_0
+  - first:
+      213: 9025292816223917717
+    second: transition_diamond_320x180_8f_1
+  - first:
+      213: -1843864895742898350
+    second: transition_diamond_320x180_8f_2
+  - first:
+      213: 5537503430345235801
+    second: transition_diamond_320x180_8f_3
+  - first:
+      213: 4450444611630333862
+    second: transition_diamond_320x180_8f_4
+  - first:
+      213: 4154642862223743306
+    second: transition_diamond_320x180_8f_5
+  - first:
+      213: -6045372937177483676
+    second: transition_diamond_320x180_8f_6
+  - first:
+      213: -5599517882839542447
+    second: transition_diamond_320x180_8f_7
+  - first:
+      213: 6159054935352641643
+    second: transition_diamond_320x180_8f_8
+  - first:
+      213: 2661558321294967562
+    second: transition_diamond_320x180_8f_9
+  - first:
+      213: 477058248288403390
+    second: transition_diamond_320x180_8f_10
+  - first:
+      213: 759216703540832338
+    second: transition_diamond_320x180_8f_11
+  - first:
+      213: -5595858625500149194
+    second: transition_diamond_320x180_8f_12
+  - first:
+      213: -1697419759868201892
+    second: transition_diamond_320x180_8f_13
+  - first:
+      213: 814511708401089117
+    second: transition_diamond_320x180_8f_14
+  - first:
+      213: 33274365537323233
+    second: transition_diamond_320x180_8f_15
+  - first:
+      213: 1539604092926166595
+    second: transition_diamond_320x180_8f_16
+  - first:
+      213: 7794759918595516995
+    second: transition_diamond_320x180_8f_17
+  - first:
+      213: -2787970158978369333
+    second: transition_diamond_320x180_8f_18
+  - first:
+      213: 7070489171496176473
+    second: transition_diamond_320x180_8f_19
+  - first:
+      213: -8018703347899401221
+    second: transition_diamond_320x180_8f_20
+  - first:
+      213: 6390994290712390516
+    second: transition_diamond_320x180_8f_21
+  - first:
+      213: -4721863847039904868
+    second: transition_diamond_320x180_8f_22
+  - first:
+      213: -1876582037202537803
+    second: transition_diamond_320x180_8f_23
+  - first:
+      213: 5724251794127202902
+    second: transition_diamond_320x180_8f_24
+  - first:
+      213: 7732180646738114745
+    second: transition_diamond_320x180_8f_25
+  - first:
+      213: 6376138144262830363
+    second: transition_diamond_320x180_8f_26
+  - first:
+      213: -8070681423239970648
+    second: transition_diamond_320x180_8f_27
+  - first:
+      213: -3882864194299020362
+    second: transition_diamond_320x180_8f_28
+  - first:
+      213: 937580609984155593
+    second: transition_diamond_320x180_8f_29
+  - first:
+      213: 7745864064597757699
+    second: transition_diamond_320x180_8f_30
+  - first:
+      213: -3917112013598349413
+    second: transition_diamond_320x180_8f_31
+  - first:
+      213: 5737566989393347551
+    second: transition_diamond_320x180_8f_32
+  - first:
+      213: 1104565777324174868
+    second: transition_diamond_320x180_8f_33
+  - first:
+      213: 2533255708935093378
+    second: transition_diamond_320x180_8f_34
+  - first:
+      213: -1052135552619143864
+    second: transition_diamond_320x180_8f_35
+  - first:
+      213: 5696753205170054499
+    second: transition_diamond_320x180_8f_36
+  - first:
+      213: 6102904665663207214
+    second: transition_diamond_320x180_8f_37
+  - first:
+      213: 8310970619883137309
+    second: transition_diamond_320x180_8f_38
+  - first:
+      213: -8409775685238461859
+    second: transition_diamond_320x180_8f_39
+  - first:
+      213: 2259109115601505597
+    second: transition_diamond_320x180_8f_40
+  - first:
+      213: 4460456607976745801
+    second: transition_diamond_320x180_8f_41
+  - first:
+      213: -1579046120576835988
+    second: transition_diamond_320x180_8f_42
+  - first:
+      213: 4243229407045940550
+    second: transition_diamond_320x180_8f_43
+  - first:
+      213: -4939177259631372708
+    second: transition_diamond_320x180_8f_44
+  - first:
+      213: -3814030111207201640
+    second: transition_diamond_320x180_8f_45
+  - first:
+      213: 4968952965702199551
+    second: transition_diamond_320x180_8f_46
+  - first:
+      213: 4172528791215128922
+    second: transition_diamond_320x180_8f_47
+  - first:
+      213: 4749435752147463865
+    second: transition_diamond_320x180_8f_48
+  - first:
+      213: -6775818331710820066
+    second: transition_diamond_320x180_8f_49
+  - first:
+      213: 6077467188459275108
+    second: transition_diamond_320x180_8f_50
+  - first:
+      213: -37283452625914595
+    second: transition_diamond_320x180_8f_51
+  - first:
+      213: -5206119350235102015
+    second: transition_diamond_320x180_8f_52
+  - first:
+      213: 5502888140828733995
+    second: transition_diamond_320x180_8f_53
+  - first:
+      213: -3725176896491656112
+    second: transition_diamond_320x180_8f_54
+  - first:
+      213: -6583518152980137920
+    second: transition_diamond_320x180_8f_55
+  - first:
+      213: 5679204956671732302
+    second: transition_diamond_320x180_8f_56
+  - first:
+      213: 3176055794531498250
+    second: transition_diamond_320x180_8f_57
+  - first:
+      213: -6147824474948562068
+    second: transition_diamond_320x180_8f_58
+  - first:
+      213: 2735190504707144367
+    second: transition_diamond_320x180_8f_59
+  - first:
+      213: -6494155336330623346
+    second: transition_diamond_320x180_8f_60
+  - first:
+      213: 3683142652478007553
+    second: transition_diamond_320x180_8f_61
+  - first:
+      213: 1096774741226773729
+    second: transition_diamond_320x180_8f_62
+  - first:
+      213: -5780545735090496645
+    second: transition_diamond_320x180_8f_63
+  - first:
+      213: -1763329140077734612
+    second: transition_diamond_320x180_8f_64
+  - first:
+      213: 573124453058529075
+    second: transition_diamond_320x180_8f_65
+  - first:
+      213: -1578525480470239812
+    second: transition_diamond_320x180_8f_66
+  - first:
+      213: 7550915807635256332
+    second: transition_diamond_320x180_8f_67
+  - first:
+      213: -6837209790559053685
+    second: transition_diamond_320x180_8f_68
+  - first:
+      213: 6933911307896062506
+    second: transition_diamond_320x180_8f_69
+  - first:
+      213: 317613629118565943
+    second: transition_diamond_320x180_8f_70
+  - first:
+      213: -3330186118856436689
+    second: transition_diamond_320x180_8f_71
+  - first:
+      213: -1775230274841707867
+    second: transition_diamond_320x180_8f_72
+  - first:
+      213: 2993464995326936141
+    second: transition_diamond_320x180_8f_73
+  - first:
+      213: -2615451201018655009
+    second: transition_diamond_320x180_8f_74
+  - first:
+      213: -8833054000759110294
+    second: transition_diamond_320x180_8f_75
+  - first:
+      213: 5684025537453662669
+    second: transition_diamond_320x180_8f_76
+  - first:
+      213: 5731168892768634430
+    second: transition_diamond_320x180_8f_77
+  - first:
+      213: -624011729314201264
+    second: transition_diamond_320x180_8f_78
+  - first:
+      213: -1380293588095301405
+    second: transition_diamond_320x180_8f_79
+  - first:
+      213: -646085202622939382
+    second: transition_diamond_320x180_8f_80
+  - first:
+      213: -5210226350938417402
+    second: transition_diamond_320x180_8f_81
+  - first:
+      213: 8552249750154717376
+    second: transition_diamond_320x180_8f_82
+  - first:
+      213: -6065035629622319620
+    second: transition_diamond_320x180_8f_83
+  - first:
+      213: -1164990278338131286
+    second: transition_diamond_320x180_8f_84
+  - first:
+      213: -3789584478452761319
+    second: transition_diamond_320x180_8f_85
+  - first:
+      213: 6196732048886315995
+    second: transition_diamond_320x180_8f_86
+  - first:
+      213: 160871469436985362
+    second: transition_diamond_320x180_8f_87
+  - first:
+      213: -220962237916995050
+    second: transition_diamond_320x180_8f_88
+  - first:
+      213: -7864230065303880764
+    second: transition_diamond_320x180_8f_89
+  - first:
+      213: 1813946062414740214
+    second: transition_diamond_320x180_8f_90
+  - first:
+      213: 4461028462064250372
+    second: transition_diamond_320x180_8f_91
+  - first:
+      213: 1265431498745609737
+    second: transition_diamond_320x180_8f_92
+  - first:
+      213: 4143645073858016644
+    second: transition_diamond_320x180_8f_93
+  - first:
+      213: -5022138777893485567
+    second: transition_diamond_320x180_8f_94
+  - first:
+      213: -2858236947347563509
+    second: transition_diamond_320x180_8f_95
+  - first:
+      213: -7076792526870871386
+    second: transition_diamond_320x180_8f_96
+  - first:
+      213: 3453426945703516301
+    second: transition_diamond_320x180_8f_97
+  - first:
+      213: -3458183801567764547
+    second: transition_diamond_320x180_8f_98
+  - first:
+      213: 6196960083521378136
+    second: transition_diamond_320x180_8f_99
+  - first:
+      213: -6872472419557506783
+    second: transition_diamond_320x180_8f_100
+  - first:
+      213: 2060717585152882980
+    second: transition_diamond_320x180_8f_101
+  - first:
+      213: -2186237372357161632
+    second: transition_diamond_320x180_8f_102
+  - first:
+      213: -7068273863134100974
+    second: transition_diamond_320x180_8f_103
+  - first:
+      213: -274237366293516263
+    second: transition_diamond_320x180_8f_104
+  - first:
+      213: 4408013717744119193
+    second: transition_diamond_320x180_8f_105
+  - first:
+      213: -8265173216997335185
+    second: transition_diamond_320x180_8f_106
+  - first:
+      213: 2285445811061611372
+    second: transition_diamond_320x180_8f_107
+  - first:
+      213: 5417391624235729647
+    second: transition_diamond_320x180_8f_108
+  - first:
+      213: -5369299465205500044
+    second: transition_diamond_320x180_8f_109
+  - first:
+      213: 2006566736774739136
+    second: transition_diamond_320x180_8f_110
+  - first:
+      213: 3366290621812192643
+    second: transition_diamond_320x180_8f_111
+  - first:
+      213: 5321859572737451134
+    second: transition_diamond_320x180_8f_112
+  - first:
+      213: 1486991122564011764
+    second: transition_diamond_320x180_8f_113
+  - first:
+      213: 2890260665931213629
+    second: transition_diamond_320x180_8f_114
+  - first:
+      213: 6048658658498774251
+    second: transition_diamond_320x180_8f_115
+  - first:
+      213: -309697287884795686
+    second: transition_diamond_320x180_8f_116
+  - first:
+      213: 1635579040389734584
+    second: transition_diamond_320x180_8f_117
+  - first:
+      213: -5720213166507974916
+    second: transition_diamond_320x180_8f_118
+  - first:
+      213: 7138160259146785100
+    second: transition_diamond_320x180_8f_119
+  - first:
+      213: 592344880165445730
+    second: transition_diamond_320x180_8f_120
+  - first:
+      213: -7229779935286261406
+    second: transition_diamond_320x180_8f_121
+  - first:
+      213: -5572850125460302038
+    second: transition_diamond_320x180_8f_122
+  - first:
+      213: -3811866141415509530
+    second: transition_diamond_320x180_8f_123
+  - first:
+      213: -8127996236739448446
+    second: transition_diamond_320x180_8f_124
+  - first:
+      213: 3957717650404674561
+    second: transition_diamond_320x180_8f_125
+  - first:
+      213: -3273210228372647674
+    second: transition_diamond_320x180_8f_126
+  - first:
+      213: -6347846314464656927
+    second: transition_diamond_320x180_8f_127
+  - first:
+      213: -7603432235076700316
+    second: transition_diamond_320x180_8f_128
+  - first:
+      213: -2141773409922240519
+    second: transition_diamond_320x180_8f_129
+  - first:
+      213: 9037272282621559197
+    second: transition_diamond_320x180_8f_130
+  - first:
+      213: 7575030691475479681
+    second: transition_diamond_320x180_8f_131
+  - first:
+      213: -166429452693348481
+    second: transition_diamond_320x180_8f_132
+  - first:
+      213: 7223446124912411104
+    second: transition_diamond_320x180_8f_133
+  - first:
+      213: -182581525268199425
+    second: transition_diamond_320x180_8f_134
+  - first:
+      213: -6897473804197088464
+    second: transition_diamond_320x180_8f_135
+  - first:
+      213: -2229686769863920911
+    second: transition_diamond_320x180_8f_136
+  - first:
+      213: 4498867766067388621
+    second: transition_diamond_320x180_8f_137
+  - first:
+      213: -993996513394437156
+    second: transition_diamond_320x180_8f_138
+  - first:
+      213: 8321975406801182297
+    second: transition_diamond_320x180_8f_139
+  - first:
+      213: -8474316985488821086
+    second: transition_diamond_320x180_8f_140
+  - first:
+      213: 4576909605398419431
+    second: transition_diamond_320x180_8f_141
+  - first:
+      213: -1142463291992942913
+    second: transition_diamond_320x180_8f_142
+  - first:
+      213: -8714656590160868857
+    second: transition_diamond_320x180_8f_143
+  - first:
+      213: -7043741747834059034
+    second: transition_diamond_320x180_8f_144
+  - first:
+      213: -3762516005405834530
+    second: transition_diamond_320x180_8f_145
+  - first:
+      213: -7485292826008968616
+    second: transition_diamond_320x180_8f_146
+  - first:
+      213: 2818786131700429236
+    second: transition_diamond_320x180_8f_147
+  - first:
+      213: 2496588679525886960
+    second: transition_diamond_320x180_8f_148
+  - first:
+      213: -6887061068434346372
+    second: transition_diamond_320x180_8f_149
+  - first:
+      213: -6029750643506383370
+    second: transition_diamond_320x180_8f_150
+  - first:
+      213: 4147530021098097318
+    second: transition_diamond_320x180_8f_151
+  - first:
+      213: 755592268947245775
+    second: transition_diamond_320x180_8f_152
+  - first:
+      213: -7162686353356011493
+    second: transition_diamond_320x180_8f_153
+  - first:
+      213: 629925557511276267
+    second: transition_diamond_320x180_8f_154
+  - first:
+      213: -1696334440426348527
+    second: transition_diamond_320x180_8f_155
+  - first:
+      213: -1261410502612902743
+    second: transition_diamond_320x180_8f_156
+  - first:
+      213: -5740704277792840339
+    second: transition_diamond_320x180_8f_157
+  - first:
+      213: -320551283515162174
+    second: transition_diamond_320x180_8f_158
+  - first:
+      213: -776453577368009979
+    second: transition_diamond_320x180_8f_159
+  - first:
+      213: 8824409160184579145
+    second: transition_diamond_320x180_8f_160
+  - first:
+      213: -7935248219970413783
+    second: transition_diamond_320x180_8f_161
+  - first:
+      213: 666743067377093489
+    second: transition_diamond_320x180_8f_162
+  - first:
+      213: -1860254686224032314
+    second: transition_diamond_320x180_8f_163
+  - first:
+      213: -3744622478035931293
+    second: transition_diamond_320x180_8f_164
+  - first:
+      213: -8756836636454676688
+    second: transition_diamond_320x180_8f_165
+  - first:
+      213: -8418675233478134652
+    second: transition_diamond_320x180_8f_166
+  - first:
+      213: -5710342363523152170
+    second: transition_diamond_320x180_8f_167
+  - first:
+      213: -8198307204510794670
+    second: transition_diamond_320x180_8f_168
+  - first:
+      213: 2727726983384231157
+    second: transition_diamond_320x180_8f_169
+  - first:
+      213: 8688470607579968787
+    second: transition_diamond_320x180_8f_170
+  - first:
+      213: 2732580152422884541
+    second: transition_diamond_320x180_8f_171
+  - first:
+      213: 1387209542897752190
+    second: transition_diamond_320x180_8f_172
+  - first:
+      213: -7221707195070530818
+    second: transition_diamond_320x180_8f_173
+  - first:
+      213: -5244844311656834093
+    second: transition_diamond_320x180_8f_174
+  - first:
+      213: 1229111323138335421
+    second: transition_diamond_320x180_8f_175
+  - first:
+      213: 2764225451992126971
+    second: transition_diamond_320x180_8f_176
+  - first:
+      213: 3327942991857357127
+    second: transition_diamond_320x180_8f_177
+  - first:
+      213: 779965205828083062
+    second: transition_diamond_320x180_8f_178
+  - first:
+      213: 3970174890766947817
+    second: transition_diamond_320x180_8f_179
+  - first:
+      213: 1187459871479331358
+    second: transition_diamond_320x180_8f_180
+  - first:
+      213: 1394707304521633626
+    second: transition_diamond_320x180_8f_181
+  - first:
+      213: -2804214920495901758
+    second: transition_diamond_320x180_8f_182
+  - first:
+      213: 2344806371786230996
+    second: transition_diamond_320x180_8f_183
+  - first:
+      213: -6998691945532051273
+    second: transition_diamond_320x180_8f_184
+  - first:
+      213: 1077859936409245297
+    second: transition_diamond_320x180_8f_185
+  - first:
+      213: -42394324417024553
+    second: transition_diamond_320x180_8f_186
+  - first:
+      213: 6252061771193446187
+    second: transition_diamond_320x180_8f_187
+  - first:
+      213: -5929837554325994833
+    second: transition_diamond_320x180_8f_188
+  - first:
+      213: 4285729347125708393
+    second: transition_diamond_320x180_8f_189
+  - first:
+      213: 5542328109474573451
+    second: transition_diamond_320x180_8f_190
+  - first:
+      213: -5412471989532838127
+    second: transition_diamond_320x180_8f_191
+  - first:
+      213: -6045200336108495560
+    second: transition_diamond_320x180_8f_192
+  - first:
+      213: -6968044768071163553
+    second: transition_diamond_320x180_8f_193
+  - first:
+      213: 6755266687315793270
+    second: transition_diamond_320x180_8f_194
+  - first:
+      213: 4110140391861875951
+    second: transition_diamond_320x180_8f_195
+  - first:
+      213: 1896116717911097645
+    second: transition_diamond_320x180_8f_196
+  - first:
+      213: -3609440973103471778
+    second: transition_diamond_320x180_8f_197
+  - first:
+      213: 7055359441417767145
+    second: transition_diamond_320x180_8f_198
+  - first:
+      213: -8294442215501773974
+    second: transition_diamond_320x180_8f_199
+  - first:
+      213: -4508484094518512863
+    second: transition_diamond_320x180_8f_200
+  - first:
+      213: -5573902564838304787
+    second: transition_diamond_320x180_8f_201
+  - first:
+      213: -5988490324876849491
+    second: transition_diamond_320x180_8f_202
+  - first:
+      213: -429565953514878223
+    second: transition_diamond_320x180_8f_203
+  - first:
+      213: -8212412167254547992
+    second: transition_diamond_320x180_8f_204
+  - first:
+      213: -5335698394194360049
+    second: transition_diamond_320x180_8f_205
+  - first:
+      213: 8266776491801253698
+    second: transition_diamond_320x180_8f_206
+  - first:
+      213: -7313825346164074946
+    second: transition_diamond_320x180_8f_207
+  - first:
+      213: 840449986421434960
+    second: transition_diamond_320x180_8f_208
+  - first:
+      213: -4619467606154524214
+    second: transition_diamond_320x180_8f_209
+  - first:
+      213: 985369546165371690
+    second: transition_diamond_320x180_8f_210
+  - first:
+      213: -6858297847248304771
+    second: transition_diamond_320x180_8f_211
+  - first:
+      213: 7904771314273745088
+    second: transition_diamond_320x180_8f_212
+  - first:
+      213: -4128653384228940354
+    second: transition_diamond_320x180_8f_213
+  - first:
+      213: 1763829876190457089
+    second: transition_diamond_320x180_8f_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf49e6a1b9178720800000000000000
+      internalID: 2848273540135342004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59659e09ff7404d70800000000000000
+      internalID: 9025292816223917717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8e6385a64966e0800000000000000
+      internalID: -1843864895742898350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1c3ce70a29dc40800000000000000
+      internalID: 5537503430345235801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 163
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff6c87bc723cd30800000000000000
+      internalID: 4450444611630333862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495573cba148a930800000000000000
+      internalID: 4154642862223743306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b6c8e7558a1ca0800000000000000
+      internalID: -6045372937177483676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d6ef27248a42b0800000000000000
+      internalID: -5599517882839542447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b688fc5e4db597550800000000000000
+      internalID: 6159054935352641643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 166
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0385c11131cfe420800000000000000
+      internalID: 2661558321294967562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 166
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf766203f9de9600800000000000000
+      internalID: 477058248288403390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2582812c197498a00800000000000000
+      internalID: 759216703540832338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a02cd6a348752b0800000000000000
+      internalID: -5595858625500149194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b352c8bd8178e0800000000000000
+      internalID: -1697419759868201892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab4a4551abd4b00800000000000000
+      internalID: 814511708401089117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 138
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88af1fbd6367000800000000000000
+      internalID: 33274365537323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 35
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3460a9de3c5cd5510800000000000000
+      internalID: 1539604092926166595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_17
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa659f8dc8c2c60800000000000000
+      internalID: 7794759918595516995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc874b569e32f49d0800000000000000
+      internalID: -2787970158978369333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b864fb07c6f1260800000000000000
+      internalID: 7070489171496176473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 166
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb783d3ac7d7b090800000000000000
+      internalID: -8018703347899401221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 166
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b267b427f51b850800000000000000
+      internalID: 6390994290712390516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935d6f39d1987eb0800000000000000
+      internalID: -4721863847039904868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_23
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2f9a8649a05f5e0800000000000000
+      internalID: -1876582037202537803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a28d9ada0a07f40800000000000000
+      internalID: 5724251794127202902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_25
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b9f3d4593e4b60800000000000000
+      internalID: 7732180646738114745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19ba972cd79c7850800000000000000
+      internalID: 6376138144262830363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_27
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a00070810e2fff80800000000000000
+      internalID: -8070681423239970648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_28
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 267
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb39bb669b4d1ac0800000000000000
+      internalID: -3882864194299020362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_29
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf4666e894f20d00800000000000000
+      internalID: 937580609984155593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_30
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f00d0d356de7b60800000000000000
+      internalID: 7745864064597757699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_31
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972e0c906f93a9c0800000000000000
+      internalID: -3917112013598349413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_32
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34cc527ceef9f40800000000000000
+      internalID: 5737566989393347551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_33
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 0
+        width: 1290
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee574e8b4345f00800000000000000
+      internalID: 1104565777324174868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7e4045aee72320800000000000000
+      internalID: 2533255708935093378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d93921a401661f0800000000000000
+      internalID: -1052135552619143864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365aa3f7bdeee0f40800000000000000
+      internalID: 5696753205170054499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fde6757fd1b450800000000000000
+      internalID: 6102904665663207214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a7d0debf765370800000000000000
+      internalID: 8310970619883137309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ae4a832997a4b80800000000000000
+      internalID: -8409775685238461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_40
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d464875c7f95f10800000000000000
+      internalID: 2259109115601505597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b6f7607a9b6ed30800000000000000
+      internalID: 4460456607976745801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1f036be9161ae0800000000000000
+      internalID: -1579046120576835988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645f6730aaaf2ea30800000000000000
+      internalID: 4243229407045940550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561cf48374847bb0800000000000000
+      internalID: -4939177259631372708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_45
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e9da42d7d11bc0800000000000000
+      internalID: -3814030111207201640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ad4a456445f440800000000000000
+      internalID: 4968952965702199551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c77f14dcc7e930800000000000000
+      internalID: 4172528791215128922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be2a4a27a269e140800000000000000
+      internalID: 4749435752147463865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11fbcb802577f1a0800000000000000
+      internalID: -6775818331710820066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_50
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305364530875450800000000000000
+      internalID: 6077467188459275108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_51
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157b3ab5ea8b7ff0800000000000000
+      internalID: -37283452625914595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_52
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c403feb80620c7b0800000000000000
+      internalID: -5206119350235102015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_53
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227ec8cb9f2e5c40800000000000000
+      internalID: 5502888140828733995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_54
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c6f1779538d4cc0800000000000000
+      internalID: -3725176896491656112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048784fee15a2a4a0800000000000000
+      internalID: -6583518152980137920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_56
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a6e0181d690de40800000000000000
+      internalID: 5679204956671732302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_57
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09fedbeaed931c20800000000000000
+      internalID: 3176055794531498250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_58
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c631d3d663a8eaaa0800000000000000
+      internalID: -6147824474948562068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_59
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa371ab54955f520800000000000000
+      internalID: 2735190504707144367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_60
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e864ecd012020e5a0800000000000000
+      internalID: -6494155336330623346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_61
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109aa027ab62d1330800000000000000
+      internalID: 3683142652478007553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec5171f0d6883f00800000000000000
+      internalID: 1096774741226773729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b1804d74067cfa0800000000000000
+      internalID: -5780545735090496645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 106
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2552975d756787e0800000000000000
+      internalID: -1763329140077734612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c4ac47a524f700800000000000000
+      internalID: 573124453058529075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 117
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb52bab5073f71ae0800000000000000
+      internalID: -1578525480470239812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043bfaabed3ac860800000000000000
+      internalID: 7550915807635256332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8897eaabe95d11a0800000000000000
+      internalID: -6837209790559053685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 117
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22853bd8933a3060800000000000000
+      internalID: 6933911307896062506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_70
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e4f63b9e3686400800000000000000
+      internalID: 317613629118565943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_71
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2410a57e5dc8c1d0800000000000000
+      internalID: -3330186118856436689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa7a89787d1d57e0800000000000000
+      internalID: -1775230274841707867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44470e9d8cea8920800000000000000
+      internalID: 2993464995326936141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_74
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde0aeb6dfc04bbd0800000000000000
+      internalID: -2615451201018655009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_75
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6509e29f20ba6580800000000000000
+      internalID: -8833054000759110294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_76
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ac2e6c17b1ee40800000000000000
+      internalID: 5684025537453662669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364e313eb3398f40800000000000000
+      internalID: 5731168892768634430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051cc8a63a01757f0800000000000000
+      internalID: -624011729314201264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_79
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e884d37b4638dce0800000000000000
+      internalID: -1380293588095301405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff50b6ee4a807f0800000000000000
+      internalID: -646085202622939382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_81
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079fe02dbe81b7b0800000000000000
+      internalID: -5210226350938417402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_82
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8256406d1bfa670800000000000000
+      internalID: 8552249750154717376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf526429a3aa4dba0800000000000000
+      internalID: -6065035629622319620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4fd4a38f15dfe0800000000000000
+      internalID: -1164990278338131286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_85
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d3d73bef0b86bc0800000000000000
+      internalID: -3789584478452761319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_86
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb52e77f63ff550800000000000000
+      internalID: 6196732048886315995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_87
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106946cfb78b3200800000000000000
+      internalID: 160871469436985362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 74
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ae2ce30cfeecf0800000000000000
+      internalID: -220962237916995050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_89
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7d9d0c64acd290800000000000000
+      internalID: -7864230065303880764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf2f3455e6c2910800000000000000
+      internalID: 1813946062414740214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 106
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e2f3e20c1c8ed30800000000000000
+      internalID: 4461028462064250372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_92
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e725a5e37bf8110800000000000000
+      internalID: 1265431498745609737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_93
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ba9e9d3f218930800000000000000
+      internalID: 4143645073858016644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_94
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c1f2d367cd4ab0800000000000000
+      internalID: -5022138777893485567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_95
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c9375d3a08558d0800000000000000
+      internalID: -2858236947347563509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_96
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a209b6f0be2acd90800000000000000
+      internalID: -7076792526870871386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_97
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d889b6492890def20800000000000000
+      internalID: 3453426945703516301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_98
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf1b8b97201200d0800000000000000
+      internalID: -3458183801567764547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_99
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571191fc56000650800000000000000
+      internalID: 6196960083521378136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_100
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210b9f0fb210a0a0800000000000000
+      internalID: -6872472419557506783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_101
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429307db9b3299c10800000000000000
+      internalID: 2060717585152882980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_102
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dc7f961bce8a1e0800000000000000
+      internalID: -2186237372357161632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_103
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c6bcee5278ed90800000000000000
+      internalID: -7068273863134100974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_104
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910bfed7196b13cf0800000000000000
+      internalID: -274237366293516263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_105
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99def232f196c2d30800000000000000
+      internalID: 4408013717744119193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_106
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f1dc9ffb43c4d80800000000000000
+      internalID: -8265173216997335185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_107
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b5bb93bd887bf10800000000000000
+      internalID: 2285445811061611372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_108
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe24fbbcaf07e2b40800000000000000
+      internalID: 5417391624235729647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_109
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4773bbb859a6c75b0800000000000000
+      internalID: -5369299465205500044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_110
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b29bd0d1c8db10800000000000000
+      internalID: 2006566736774739136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_111
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38538d33c7777be20800000000000000
+      internalID: 3366290621812192643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_112
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 74
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e742781c51b0bd940800000000000000
+      internalID: 5321859572737451134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_113
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6569c2c8ad2a410800000000000000
+      internalID: 1486991122564011764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_114
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2d1d23c44c1820800000000000000
+      internalID: 2890260665931213629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_115
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 106
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40963b00721f350800000000000000
+      internalID: 6048658658498774251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_116
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad099bf15fbb3bbf0800000000000000
+      internalID: -309697287884795686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_117
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 117
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02188b87eb2b610800000000000000
+      internalID: 1635579040389734584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_118
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe97ca9e68bd90b0800000000000000
+      internalID: -5720213166507974916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_119
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412144afe6df0360800000000000000
+      internalID: 7138160259146785100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_120
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26068c6b78e683800800000000000000
+      internalID: 592344880165445730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_121
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26904013479aaab90800000000000000
+      internalID: -7229779935286261406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_122
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27927d465249a2b0800000000000000
+      internalID: -5572850125460302038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_123
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1f695c0f7891bc0800000000000000
+      internalID: -3811866141415509530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_124
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281fe659c7e833f80800000000000000
+      internalID: -8127996236739448446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_125
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c0aa1fb33ace630800000000000000
+      internalID: 3957717650404674561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_126
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6015ca6b3a83392d0800000000000000
+      internalID: -3273210228372647674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_127
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1cf89c86be7e7a0800000000000000
+      internalID: -6347846314464656927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467bf7abaae2b7690800000000000000
+      internalID: -7603432235076700316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_129
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff25386e64e642e0800000000000000
+      internalID: -2141773409922240519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9144207247da6d70800000000000000
+      internalID: 9037272282621559197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_131
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd318974aef1960800000000000000
+      internalID: 7575030691475479681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_132
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fdc086b49b0bdf0800000000000000
+      internalID: -166429452693348481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_133
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e18399aaf5de3460800000000000000
+      internalID: 7223446124912411104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_134
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff707d3f117577df0800000000000000
+      internalID: -182581525268199425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_135
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03335459e104740a0800000000000000
+      internalID: -6897473804197088464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_136
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27fd932bf8e01e0800000000000000
+      internalID: -2229686769863920911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_137
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e6efa5603f6e30800000000000000
+      internalID: 4498867766067388621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_138
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d52fff6d9432f0800000000000000
+      internalID: -993996513394437156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_139
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95edbef6a889d7370800000000000000
+      internalID: 8321975406801182297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_140
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a431edb99d256a80800000000000000
+      internalID: -8474316985488821086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_141
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e798de5903748f30800000000000000
+      internalID: 4576909605398419431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_142
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb656df50b72520f0800000000000000
+      internalID: -1142463291992942913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_143
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ac1f3e0025f0780800000000000000
+      internalID: -8714656590160868857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_144
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e603ce133a9f3e90800000000000000
+      internalID: -7043741747834059034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_145
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 70
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24014b0abd8cbc0800000000000000
+      internalID: -3762516005405834530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_146
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a4f165d5ee1890800000000000000
+      internalID: -7485292826008968616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_147
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13dcd5d075e1720800000000000000
+      internalID: 2818786131700429236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_148
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe6613d2aa5a220800000000000000
+      internalID: 2496588679525886960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_149
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6c8d827e3c60a0800000000000000
+      internalID: -6887061068434346372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_150
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f57e999cb5025ca0800000000000000
+      internalID: -6029750643506383370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_151
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa02d2649cfe8930800000000000000
+      internalID: 4147530021098097318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_152
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac1a15a276c7a00800000000000000
+      internalID: 755592268947245775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_153
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184dae06b6099c90800000000000000
+      internalID: -7162686353356011493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_154
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6466205f1fdb800800000000000000
+      internalID: 629925557511276267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_155
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110602260d86578e0800000000000000
+      internalID: -1696334440426348527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 10
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac9fc3c4d19e7ee0800000000000000
+      internalID: -1261410502612902743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_157
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a799ffdbe450b0800000000000000
+      internalID: -5740704277792840339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_158
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c188c55e4c2d8bf0800000000000000
+      internalID: -320551283515162174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_159
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 42
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030660d59b7935f0800000000000000
+      internalID: -776453577368009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_160
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9444181a069967a70800000000000000
+      internalID: 8824409160184579145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_161
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bdc1469c550e190800000000000000
+      internalID: -7935248219970413783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_162
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4777894fb04900800000000000000
+      internalID: 666743067377093489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_163
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5cdb083c0f26e0800000000000000
+      internalID: -1860254686224032314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_164
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa9b232bd680cc0800000000000000
+      internalID: -3744622478035931293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_165
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0371eff8977797680800000000000000
+      internalID: -8756836636454676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_166
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484382daa7bda2b80800000000000000
+      internalID: -8418675233478134652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_167
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6865400e9c0c0b0800000000000000
+      internalID: -5710342363523152170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_168
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 10
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cbb93b803c93e80800000000000000
+      internalID: -8198307204510794670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_169
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc6dd04d35dad520800000000000000
+      internalID: 2727726983384231157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_170
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315f93eebf5a39870800000000000000
+      internalID: 8688470607579968787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_171
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 42
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e279bb231ce520800000000000000
+      internalID: 2732580152422884541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_172
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d371cabb504310800000000000000
+      internalID: 1387209542897752190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_173
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa30fd719757cb90800000000000000
+      internalID: -7221707195070530818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_174
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db577d03e19637b0800000000000000
+      internalID: -5244844311656834093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_175
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2221d7c3eae0110800000000000000
+      internalID: 1229111323138335421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_176
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5951137608c5620800000000000000
+      internalID: 2764225451992126971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_177
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7419866d48a3f2e20800000000000000
+      internalID: 3327942991857357127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_178
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d1c86e83ef2da00800000000000000
+      internalID: 779965205828083062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_179
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5d65c3705e81730800000000000000
+      internalID: 3970174890766947817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_180
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a7e803674ba7010800000000000000
+      internalID: 1187459871479331358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_181
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f87ab67eefa5310800000000000000
+      internalID: 1394707304521633626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_182
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ddfd136d6519d0800000000000000
+      internalID: -2804214920495901758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_183
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0469c8fc6a8020800000000000000
+      internalID: 2344806371786230996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_184
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0bc2691c6afde90800000000000000
+      internalID: -6998691945532051273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_185
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765c43c6e355fe00800000000000000
+      internalID: 1077859936409245297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_186
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd61a82692696ff0800000000000000
+      internalID: -42394324417024553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_187
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe8c95e09c3c650800000000000000
+      internalID: 6252061771193446187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_188
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c0a6792cf4bda0800000000000000
+      internalID: -5929837554325994833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_189
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96605ea6228f97b30800000000000000
+      internalID: 4285729347125708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_190
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce4e11d0e4aec40800000000000000
+      internalID: 5542328109474573451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_191
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b42be66903e4b0800000000000000
+      internalID: -5412471989532838127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_192
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5e2ab2522b1ca0800000000000000
+      internalID: -6045200336108495560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_193
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f516914a3388c4f90800000000000000
+      internalID: -6968044768071163553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_194
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675dc7cd2478fbd50800000000000000
+      internalID: 6755266687315793270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_195
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe479e1f8e62a0930800000000000000
+      internalID: 4110140391861875951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_196
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2145cfdb1c505a10800000000000000
+      internalID: 1896116717911097645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_197
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536d600f80b8edc0800000000000000
+      internalID: -3609440973103471778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_198
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88764f70ca9e160800000000000000
+      internalID: 7055359441417767145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_199
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63430730c834ec80800000000000000
+      internalID: -8294442215501773974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_200
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b9be5a95ae61c0800000000000000
+      internalID: -4508484094518512863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_201
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39c2a262585a2b0800000000000000
+      internalID: -5573902564838304787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_202
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae0ad427cb94eca0800000000000000
+      internalID: -5988490324876849491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_203
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fac42d8a00e90af0800000000000000
+      internalID: -429565953514878223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_204
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e162b525a6a70e80800000000000000
+      internalID: -8212412167254547992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_205
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094c69849ac3f5b0800000000000000
+      internalID: -5335698394194360049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_206
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2471d578b6d79b270800000000000000
+      internalID: 8266776491801253698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_207
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3654a41992108a90800000000000000
+      internalID: -7313825346164074946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_208
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa12c4fc0e9ab00800000000000000
+      internalID: 840449986421434960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_209
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac94cbbefaa54efb0800000000000000
+      internalID: -4619467606154524214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_210
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23ccaba16cbcad00800000000000000
+      internalID: 985369546165371690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_211
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7540fad17e62d0a0800000000000000
+      internalID: -6858297847248304771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_212
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 9
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8fbf901a363bd60800000000000000
+      internalID: 7904771314273745088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_213
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d1502f9314b6c0800000000000000
+      internalID: -4128653384228940354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_diamond_320x180_8f_214
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 9
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dad8e5de16a7810800000000000000
+      internalID: 1763829876190457089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      transition_diamond_320x180_8f_0: 2848273540135342004
+      transition_diamond_320x180_8f_1: 9025292816223917717
+      transition_diamond_320x180_8f_10: 477058248288403390
+      transition_diamond_320x180_8f_100: -6872472419557506783
+      transition_diamond_320x180_8f_101: 2060717585152882980
+      transition_diamond_320x180_8f_102: -2186237372357161632
+      transition_diamond_320x180_8f_103: -7068273863134100974
+      transition_diamond_320x180_8f_104: -274237366293516263
+      transition_diamond_320x180_8f_105: 4408013717744119193
+      transition_diamond_320x180_8f_106: -8265173216997335185
+      transition_diamond_320x180_8f_107: 2285445811061611372
+      transition_diamond_320x180_8f_108: 5417391624235729647
+      transition_diamond_320x180_8f_109: -5369299465205500044
+      transition_diamond_320x180_8f_11: 759216703540832338
+      transition_diamond_320x180_8f_110: 2006566736774739136
+      transition_diamond_320x180_8f_111: 3366290621812192643
+      transition_diamond_320x180_8f_112: 5321859572737451134
+      transition_diamond_320x180_8f_113: 1486991122564011764
+      transition_diamond_320x180_8f_114: 2890260665931213629
+      transition_diamond_320x180_8f_115: 6048658658498774251
+      transition_diamond_320x180_8f_116: -309697287884795686
+      transition_diamond_320x180_8f_117: 1635579040389734584
+      transition_diamond_320x180_8f_118: -5720213166507974916
+      transition_diamond_320x180_8f_119: 7138160259146785100
+      transition_diamond_320x180_8f_12: -5595858625500149194
+      transition_diamond_320x180_8f_120: 592344880165445730
+      transition_diamond_320x180_8f_121: -7229779935286261406
+      transition_diamond_320x180_8f_122: -5572850125460302038
+      transition_diamond_320x180_8f_123: -3811866141415509530
+      transition_diamond_320x180_8f_124: -8127996236739448446
+      transition_diamond_320x180_8f_125: 3957717650404674561
+      transition_diamond_320x180_8f_126: -3273210228372647674
+      transition_diamond_320x180_8f_127: -6347846314464656927
+      transition_diamond_320x180_8f_128: -7603432235076700316
+      transition_diamond_320x180_8f_129: -2141773409922240519
+      transition_diamond_320x180_8f_13: -1697419759868201892
+      transition_diamond_320x180_8f_130: 9037272282621559197
+      transition_diamond_320x180_8f_131: 7575030691475479681
+      transition_diamond_320x180_8f_132: -166429452693348481
+      transition_diamond_320x180_8f_133: 7223446124912411104
+      transition_diamond_320x180_8f_134: -182581525268199425
+      transition_diamond_320x180_8f_135: -6897473804197088464
+      transition_diamond_320x180_8f_136: -2229686769863920911
+      transition_diamond_320x180_8f_137: 4498867766067388621
+      transition_diamond_320x180_8f_138: -993996513394437156
+      transition_diamond_320x180_8f_139: 8321975406801182297
+      transition_diamond_320x180_8f_14: 814511708401089117
+      transition_diamond_320x180_8f_140: -8474316985488821086
+      transition_diamond_320x180_8f_141: 4576909605398419431
+      transition_diamond_320x180_8f_142: -1142463291992942913
+      transition_diamond_320x180_8f_143: -8714656590160868857
+      transition_diamond_320x180_8f_144: -7043741747834059034
+      transition_diamond_320x180_8f_145: -3762516005405834530
+      transition_diamond_320x180_8f_146: -7485292826008968616
+      transition_diamond_320x180_8f_147: 2818786131700429236
+      transition_diamond_320x180_8f_148: 2496588679525886960
+      transition_diamond_320x180_8f_149: -6887061068434346372
+      transition_diamond_320x180_8f_15: 33274365537323233
+      transition_diamond_320x180_8f_150: -6029750643506383370
+      transition_diamond_320x180_8f_151: 4147530021098097318
+      transition_diamond_320x180_8f_152: 755592268947245775
+      transition_diamond_320x180_8f_153: -7162686353356011493
+      transition_diamond_320x180_8f_154: 629925557511276267
+      transition_diamond_320x180_8f_155: -1696334440426348527
+      transition_diamond_320x180_8f_156: -1261410502612902743
+      transition_diamond_320x180_8f_157: -5740704277792840339
+      transition_diamond_320x180_8f_158: -320551283515162174
+      transition_diamond_320x180_8f_159: -776453577368009979
+      transition_diamond_320x180_8f_16: 1539604092926166595
+      transition_diamond_320x180_8f_160: 8824409160184579145
+      transition_diamond_320x180_8f_161: -7935248219970413783
+      transition_diamond_320x180_8f_162: 666743067377093489
+      transition_diamond_320x180_8f_163: -1860254686224032314
+      transition_diamond_320x180_8f_164: -3744622478035931293
+      transition_diamond_320x180_8f_165: -8756836636454676688
+      transition_diamond_320x180_8f_166: -8418675233478134652
+      transition_diamond_320x180_8f_167: -5710342363523152170
+      transition_diamond_320x180_8f_168: -8198307204510794670
+      transition_diamond_320x180_8f_169: 2727726983384231157
+      transition_diamond_320x180_8f_17: 7794759918595516995
+      transition_diamond_320x180_8f_170: 8688470607579968787
+      transition_diamond_320x180_8f_171: 2732580152422884541
+      transition_diamond_320x180_8f_172: 1387209542897752190
+      transition_diamond_320x180_8f_173: -7221707195070530818
+      transition_diamond_320x180_8f_174: -5244844311656834093
+      transition_diamond_320x180_8f_175: 1229111323138335421
+      transition_diamond_320x180_8f_176: 2764225451992126971
+      transition_diamond_320x180_8f_177: 3327942991857357127
+      transition_diamond_320x180_8f_178: 779965205828083062
+      transition_diamond_320x180_8f_179: 3970174890766947817
+      transition_diamond_320x180_8f_18: -2787970158978369333
+      transition_diamond_320x180_8f_180: 1187459871479331358
+      transition_diamond_320x180_8f_181: 1394707304521633626
+      transition_diamond_320x180_8f_182: -2804214920495901758
+      transition_diamond_320x180_8f_183: 2344806371786230996
+      transition_diamond_320x180_8f_184: -6998691945532051273
+      transition_diamond_320x180_8f_185: 1077859936409245297
+      transition_diamond_320x180_8f_186: -42394324417024553
+      transition_diamond_320x180_8f_187: 6252061771193446187
+      transition_diamond_320x180_8f_188: -5929837554325994833
+      transition_diamond_320x180_8f_189: 4285729347125708393
+      transition_diamond_320x180_8f_19: 7070489171496176473
+      transition_diamond_320x180_8f_190: 5542328109474573451
+      transition_diamond_320x180_8f_191: -5412471989532838127
+      transition_diamond_320x180_8f_192: -6045200336108495560
+      transition_diamond_320x180_8f_193: -6968044768071163553
+      transition_diamond_320x180_8f_194: 6755266687315793270
+      transition_diamond_320x180_8f_195: 4110140391861875951
+      transition_diamond_320x180_8f_196: 1896116717911097645
+      transition_diamond_320x180_8f_197: -3609440973103471778
+      transition_diamond_320x180_8f_198: 7055359441417767145
+      transition_diamond_320x180_8f_199: -8294442215501773974
+      transition_diamond_320x180_8f_2: -1843864895742898350
+      transition_diamond_320x180_8f_20: -8018703347899401221
+      transition_diamond_320x180_8f_200: -4508484094518512863
+      transition_diamond_320x180_8f_201: -5573902564838304787
+      transition_diamond_320x180_8f_202: -5988490324876849491
+      transition_diamond_320x180_8f_203: -429565953514878223
+      transition_diamond_320x180_8f_204: -8212412167254547992
+      transition_diamond_320x180_8f_205: -5335698394194360049
+      transition_diamond_320x180_8f_206: 8266776491801253698
+      transition_diamond_320x180_8f_207: -7313825346164074946
+      transition_diamond_320x180_8f_208: 840449986421434960
+      transition_diamond_320x180_8f_209: -4619467606154524214
+      transition_diamond_320x180_8f_21: 6390994290712390516
+      transition_diamond_320x180_8f_210: 985369546165371690
+      transition_diamond_320x180_8f_211: -6858297847248304771
+      transition_diamond_320x180_8f_212: 7904771314273745088
+      transition_diamond_320x180_8f_213: -4128653384228940354
+      transition_diamond_320x180_8f_214: 1763829876190457089
+      transition_diamond_320x180_8f_22: -4721863847039904868
+      transition_diamond_320x180_8f_23: -1876582037202537803
+      transition_diamond_320x180_8f_24: 5724251794127202902
+      transition_diamond_320x180_8f_25: 7732180646738114745
+      transition_diamond_320x180_8f_26: 6376138144262830363
+      transition_diamond_320x180_8f_27: -8070681423239970648
+      transition_diamond_320x180_8f_28: -3882864194299020362
+      transition_diamond_320x180_8f_29: 937580609984155593
+      transition_diamond_320x180_8f_3: 5537503430345235801
+      transition_diamond_320x180_8f_30: 7745864064597757699
+      transition_diamond_320x180_8f_31: -3917112013598349413
+      transition_diamond_320x180_8f_32: 5737566989393347551
+      transition_diamond_320x180_8f_33: 1104565777324174868
+      transition_diamond_320x180_8f_34: 2533255708935093378
+      transition_diamond_320x180_8f_35: -1052135552619143864
+      transition_diamond_320x180_8f_36: 5696753205170054499
+      transition_diamond_320x180_8f_37: 6102904665663207214
+      transition_diamond_320x180_8f_38: 8310970619883137309
+      transition_diamond_320x180_8f_39: -8409775685238461859
+      transition_diamond_320x180_8f_4: 4450444611630333862
+      transition_diamond_320x180_8f_40: 2259109115601505597
+      transition_diamond_320x180_8f_41: 4460456607976745801
+      transition_diamond_320x180_8f_42: -1579046120576835988
+      transition_diamond_320x180_8f_43: 4243229407045940550
+      transition_diamond_320x180_8f_44: -4939177259631372708
+      transition_diamond_320x180_8f_45: -3814030111207201640
+      transition_diamond_320x180_8f_46: 4968952965702199551
+      transition_diamond_320x180_8f_47: 4172528791215128922
+      transition_diamond_320x180_8f_48: 4749435752147463865
+      transition_diamond_320x180_8f_49: -6775818331710820066
+      transition_diamond_320x180_8f_5: 4154642862223743306
+      transition_diamond_320x180_8f_50: 6077467188459275108
+      transition_diamond_320x180_8f_51: -37283452625914595
+      transition_diamond_320x180_8f_52: -5206119350235102015
+      transition_diamond_320x180_8f_53: 5502888140828733995
+      transition_diamond_320x180_8f_54: -3725176896491656112
+      transition_diamond_320x180_8f_55: -6583518152980137920
+      transition_diamond_320x180_8f_56: 5679204956671732302
+      transition_diamond_320x180_8f_57: 3176055794531498250
+      transition_diamond_320x180_8f_58: -6147824474948562068
+      transition_diamond_320x180_8f_59: 2735190504707144367
+      transition_diamond_320x180_8f_6: -6045372937177483676
+      transition_diamond_320x180_8f_60: -6494155336330623346
+      transition_diamond_320x180_8f_61: 3683142652478007553
+      transition_diamond_320x180_8f_62: 1096774741226773729
+      transition_diamond_320x180_8f_63: -5780545735090496645
+      transition_diamond_320x180_8f_64: -1763329140077734612
+      transition_diamond_320x180_8f_65: 573124453058529075
+      transition_diamond_320x180_8f_66: -1578525480470239812
+      transition_diamond_320x180_8f_67: 7550915807635256332
+      transition_diamond_320x180_8f_68: -6837209790559053685
+      transition_diamond_320x180_8f_69: 6933911307896062506
+      transition_diamond_320x180_8f_7: -5599517882839542447
+      transition_diamond_320x180_8f_70: 317613629118565943
+      transition_diamond_320x180_8f_71: -3330186118856436689
+      transition_diamond_320x180_8f_72: -1775230274841707867
+      transition_diamond_320x180_8f_73: 2993464995326936141
+      transition_diamond_320x180_8f_74: -2615451201018655009
+      transition_diamond_320x180_8f_75: -8833054000759110294
+      transition_diamond_320x180_8f_76: 5684025537453662669
+      transition_diamond_320x180_8f_77: 5731168892768634430
+      transition_diamond_320x180_8f_78: -624011729314201264
+      transition_diamond_320x180_8f_79: -1380293588095301405
+      transition_diamond_320x180_8f_8: 6159054935352641643
+      transition_diamond_320x180_8f_80: -646085202622939382
+      transition_diamond_320x180_8f_81: -5210226350938417402
+      transition_diamond_320x180_8f_82: 8552249750154717376
+      transition_diamond_320x180_8f_83: -6065035629622319620
+      transition_diamond_320x180_8f_84: -1164990278338131286
+      transition_diamond_320x180_8f_85: -3789584478452761319
+      transition_diamond_320x180_8f_86: 6196732048886315995
+      transition_diamond_320x180_8f_87: 160871469436985362
+      transition_diamond_320x180_8f_88: -220962237916995050
+      transition_diamond_320x180_8f_89: -7864230065303880764
+      transition_diamond_320x180_8f_9: 2661558321294967562
+      transition_diamond_320x180_8f_90: 1813946062414740214
+      transition_diamond_320x180_8f_91: 4461028462064250372
+      transition_diamond_320x180_8f_92: 1265431498745609737
+      transition_diamond_320x180_8f_93: 4143645073858016644
+      transition_diamond_320x180_8f_94: -5022138777893485567
+      transition_diamond_320x180_8f_95: -2858236947347563509
+      transition_diamond_320x180_8f_96: -7076792526870871386
+      transition_diamond_320x180_8f_97: 3453426945703516301
+      transition_diamond_320x180_8f_98: -3458183801567764547
+      transition_diamond_320x180_8f_99: 6196960083521378136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

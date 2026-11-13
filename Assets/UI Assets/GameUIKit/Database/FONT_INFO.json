@@ -1,0 +1,53 @@
+{
+ "small": {
+  "name": "PixelSeries Small 5px",
+  "file_fnt": "09_Fonts/Small/small_bmfont.fnt",
+  "atlas": "09_Fonts/Small/small_bmfont.png",
+  "cap_height": 5,
+  "x_height": 4,
+  "descender": 2,
+  "ascent_for_accents": 3,
+  "line_height": 11,
+  "baseline_from_top": 8,
+  "letter_spacing": 1,
+  "space_advance": 3,
+  "glyph_count": 143,
+  "base_glyphs": 95,
+  "accented_glyphs": 47,
+  "charset": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ß¡¿ÀÁÂÄÅÇÈÉÊËÍÎÏÑÓÔÖÚÛÜàáâäåçèéêëìíîïñòóôöùúûüÿı"
+ },
+ "regular": {
+  "name": "PixelSeries Regular 7px",
+  "file_fnt": "09_Fonts/Regular/regular_bmfont.fnt",
+  "atlas": "09_Fonts/Regular/regular_bmfont.png",
+  "cap_height": 7,
+  "x_height": 5,
+  "descender": 2,
+  "ascent_for_accents": 4,
+  "line_height": 14,
+  "baseline_from_top": 11,
+  "letter_spacing": 1,
+  "space_advance": 4,
+  "glyph_count": 143,
+  "base_glyphs": 95,
+  "accented_glyphs": 47,
+  "charset": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ß¡¿ÀÁÂÄÅÇÈÉÊËÍÎÏÑÓÔÖÚÛÜàáâäåçèéêëìíîïñòóôöùúûüÿı"
+ },
+ "title": {
+  "name": "PixelSeries Title Bold 14px",
+  "file_fnt": "09_Fonts/Title/title_bmfont.fnt",
+  "atlas": "09_Fonts/Title/title_bmfont.png",
+  "cap_height": 14,
+  "x_height": 10,
+  "descender": 4,
+  "ascent_for_accents": 4,
+  "line_height": 23,
+  "baseline_from_top": 18,
+  "letter_spacing": 2,
+  "space_advance": 7,
+  "glyph_count": 143,
+  "base_glyphs": 95,
+  "accented_glyphs": 47,
+  "charset": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ß¡¿ÀÁÂÄÅÇÈÉÊËÍÎÏÑÓÔÖÚÛÜàáâäåçèéêëìíîïñòóôöùúûüÿı"
+ }
+}
