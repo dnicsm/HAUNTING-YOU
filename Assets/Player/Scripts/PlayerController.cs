@@ -208,7 +208,7 @@ public class PlayerController : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Space))
                 StartJump();
-            else if (Input.GetKeyDown(KeyCode.CapsLock))
+            else if (Input.GetKeyDown(KeyCode.P))
                 StartDodge();
         }
     }
